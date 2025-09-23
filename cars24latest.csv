@@ -1,0 +1,1508 @@
+﻿Brand,Model,Year,Fuel Type,Distance Driven(KM),Transmission,Price in Lakhs,EMI/month,City
+Tata,PUNCH,2021,Petrol,"28,773",Automatic,7.08,"13,842",Hyderabad
+Tata,Tiago,2017,Petrol,"72,629",Manual,4.32,"8,446",Hyderabad
+Tata,TIGOR,2021,Petrol,"47,307",Manual,5.86,"11,456",Hyderabad
+Tata,ALTROZ,2021,Petrol,"42,996",Manual,7.53,"14,721",Hyderabad
+Tata,Tiago,2017,Petrol,"62,204",Automatic,4.74,"9,267",Hyderabad
+Tata,ALTROZ,2021,Diesel,"91,115",Manual,7.49,"14,643",Hyderabad
+Tata,Tiago,2022,CNG,"39,253",,6.96,"13,607",Hyderabad
+Tata,TIGOR,2017,Petrol,"57,681",Manual,4.76,"9,306",Hyderabad
+Tata,ALTROZ,2022,Petrol,"38,754",Automatic,7.95,"15,542",Hyderabad
+Tata,Tiago,2020,Petrol,"68,679",Automatic,5.77,"11,280",Hyderabad
+Tata,Tiago,2021,Petrol,"50,943",Manual,5.13,"10,029",Hyderabad
+Tata,Tiago,2019,Petrol,"68,420",Manual,5.44,"10,635",Hyderabad
+Tata,Tiago,2021,Petrol,"50,187",Automatic,6.58,"12,864",Hyderabad
+Tata,Tiago,2017,Petrol,"86,370",Automatic,4.87,"9,521",Hyderabad
+Tata,Harrier,2020,Diesel,"61,344",Automatic,16.01,"30,474",Hyderabad
+Tata,Tiago,2019,Petrol,"21,478",Manual,5.25,"10,264",Hyderabad
+Tata,TIAGO,2021,Petrol,"50,406",Manual,6.35,"12,414",Hyderabad
+Tata,NEXON,2018,Petrol,"32,714",Automatic,8.39,"15,970",Hyderabad
+Tata,TIGOR,2018,Petrol,"49,100",Manual,4.69,"9,169",Hyderabad
+Tata,ALTROZ,2022,Diesel,"37,850",Manual,8.5,"16,179",Hyderabad
+Tata,Tiago,2016,Petrol,"86,034",Manual,4.11,"8,035",Bangalore
+Tata,Tiago,2019,Petrol,"13,508",Automatic,5.47,"10,694",Bangalore
+Tata,Tiago,2018,Petrol,"37,423",Manual,4.78,"9,345",Bangalore
+Tata,NEXON,2021,Diesel,"37,951",Automatic,11.82,"22,498",Bangalore
+Tata,ALTROZ,2022,Petrol,"3,780",Automatic,10.13,"19,282",Bangalore
+Tata,Tiago,2016,Petrol,"70,208",Manual,4.06,"7,937",Bangalore
+Tata,NEXON,2018,Diesel,"63,945",Automatic,9.78,"18,615",Bangalore
+Tata,NEXON,2022,Petrol,"24,386",Manual,12.76,"24,287",Bangalore
+Tata,Tiago,2016,Petrol,"93,014",Manual,4.18,"8,172",Bangalore
+Tata,ALTROZ,2020,Petrol,"36,967",Manual,7.55,"14,760",Bangalore
+Tata,Harrier,2022,Diesel,"32,407",Automatic,19.41,"36,945",Bangalore
+Tata,NEXON,2021,Petrol,"4,351",Automatic,9.51,"18,097",Bangalore
+Tata,NEXON,2021,Petrol,"17,129",Automatic,10.51,"20,005",Bangalore
+Tata,Tiago,2021,Petrol,"18,989",Automatic,6.43,"12,571",Bangalore
+Tata,PUNCH,2022,Petrol,"26,123",Automatic,9.07,"17,264",Bangalore
+Tata,NEXON,2019,Petrol,"41,840",Automatic,7.74,"15,132",Bangalore
+Tata,Tiago,2020,Petrol,"25,926",Automatic,6.54,"12,786",Bangalore
+Tata,Tiago,2020,Petrol,"24,993",Manual,6.23,"12,180",Bangalore
+Tata,TIAGO,2022,Petrol,"16,926",Automatic,7.01,"13,713",Bangalore
+Tata,NEXON,2022,Diesel,"31,035",Manual,12,"22,832",Bangalore
+Tata,NEXON,2018,Petrol,"13,664",Manual,6.26,"12,238",Mumbai
+Tata,Tiago,2020,Petrol,"42,969",Manual,4.92,"9,619",Mumbai
+Tata,Tiago,2017,Diesel,"45,130",Manual,3.95,"7,722",Mumbai
+Tata,Harrier,2019,Diesel,"52,045",Manual,13.1,"24,935",Mumbai
+Tata,TIGOR,2020,Petrol,"12,239",Manual,6.28,"12,278",Mumbai
+Tata,Tiago,2018,CNG,"36,007",,4.76,"9,306",Mumbai
+Tata,TIGOR,2019,Petrol,"87,229",Manual,5.18,"10,121",Mumbai
+Tata,TIGOR,2023,Petrol,"8,683",Automatic,7.45,"14,565",Mumbai
+Tata,NEXON,2017,Petrol,"37,976",Manual,6.98,"13,646",Mumbai
+Tata,NEXON,2021,Petrol,"18,657",Manual,8.52,"16,217",Mumbai
+Tata,NEXON,2018,Diesel,"1,06",Automatic,7.35,"16,345",Mumbai
+Tata,Tiago,2022,Petrol,,,6.06,"11,847",Mumbai
+Tata,NEXON,2017,Petrol,"54,881",Manual,6.97,"13,626",Mumbai
+Tata,TIGOR,2022,CNG,"18,323",,7.91,"15,464",Mumbai
+Tata,Tiago,2022,CNG,"6,461",,6.84,"13,378",Mumbai
+Tata,Tiago,2018,Petrol,"90,317",Manual,4.45,"8,700",Mumbai
+Tata,Tiago,2022,Petrol,"4,119",Automatic,7.02,"13,724",Mumbai
+Tata,Tiago,2019,Petrol,"13,435",Manual,5.24,"10,244",Mumbai
+Tata,Tiago,2019,Petrol,"18,218",Automatic,6.02,"11,769",Mumbai
+Tata,NEXON,2019,Petrol,"18,707",Automatic,9.07,"17,256",Mumbai
+Tata,Harrier,2019,Diesel,"52,860",Manual,12.54,"27,265",Delhi
+Tata,ALTROZ,2020,Petrol,"21,564",Manual,6.93,"13,552",Delhi
+Tata,Tiago,2018,Petrol,"48,146",Manual,3.94,"7,703",Delhi
+Tata,TIGOR,2022,Petrol,"14,235",Manual,5.92,"11,574",Delhi
+Tata,NEXON,2019,CNG,"61,379",,7.35,"14,369",Delhi
+Tata,Tiago,2020,Petrol,"37,366",Manual,4.75,"9,286",Delhi
+Tata,PUNCH,2022,Petrol,"7,652",Manual,7.07,"13,822",Delhi
+Tata,TIGOR,2022,CNG,"28,325",,7.02,"13,724",Delhi
+Tata,Harrier,2023,Diesel,"15,453",Automatic,20.53,"39,077",Delhi
+Tata,NEXON,2019,Petrol,"16,531",Automatic,7.54,"14,741",Delhi
+Tata,Harrier,2020,Diesel,"48,760",Automatic,15.96,"30,378",Delhi
+Tata,Tiago,2018,Petrol,"42,867",Manual,3.96,"7,742",Delhi
+Tata,Tiago,2022,Petrol,"13,733",Manual,5.23,"10,225",Delhi
+Tata,NEXON,2022,Petrol,"22,251",Manual,8.52,"16,217",Delhi
+Tata,NEXON,2023,Petrol,"13,397",Manual,8.82,"16,788",Delhi
+Tata,TIAGO,2018,Petrol,"35,764",Manual,4.67,"9,130",Delhi
+Tata,NEXON,2022,Petrol,"30,530",Manual,7.92,"15,484",Delhi
+Tata,ALTROZ,2022,Petrol,"25,132",Automatic,8.22,"15,646",Delhi
+Tata,Tiago,2022,CNG,"16,750",,6.65,"13,001",Delhi
+Tata,TIGOR,2022,CNG,"37,622",,7.34,"14,350",Delhi
+Tata,Tiago,2022,Petrol,"28,982",Manual,5.71,"11,163",Ahmedabad
+Tata,Tiago,2020,Petrol,"32,586",Automatic,6.63,"12,962",Ahmedabad
+Tata,Tiago,2020,Petrol,"57,633",Manual,4.76,"9,306",Ahmedabad
+Tata,Tiago,2017,Petrol,"1,03",Manual,3.48,"7,741",Ahmedabad
+Tata,ALTROZ,2022,Petrol,"17,069",Automatic,8.26,"15,722",Ahmedabad
+Tata,ALTROZ,2021,Petrol,"13,563",Manual,6.67,"13,044",Ahmedabad
+Tata,NEXON,2022,Petrol,"20,477",Manual,9.75,"18,558",Ahmedabad
+Tata,Tiago,2021,Petrol,"13,321",Automatic,7,"13,685",Ahmedabad
+Tata,TIGOR,2022,Petrol,"12,248",Automatic,8.2,"15,608",Ahmedabad
+Tata,Safari,2021,Diesel,"23,694",Manual,15.32,"29,160",Ahmedabad
+Tata,NEXON,2022,Petrol,"22,445",Automatic,11.08,"21,090",Ahmedabad
+Tata,Safari,2022,Diesel,"39,984",Manual,17.3,"32,929",Ahmedabad
+Tata,NEXON,2021,Petrol,"9,473",Automatic,10.01,"19,053",Ahmedabad
+Tata,NEXON,2021,Petrol,"21,987",Automatic,9.24,"17,587",Ahmedabad
+Tata,NEXON,2022,Petrol,"33,058",Automatic,10.5,"19,986",Ahmedabad
+Tata,NEXON,2022,Petrol,"17,501",Manual,11.01,"20,957",Ahmedabad
+Tata,Safari,2021,Diesel,"67,099",Automatic,17.39,"33,100",Ahmedabad
+Tata,NEXON,2019,Petrol,"44,565",Manual,8.42,"16,027",Ahmedabad
+Tata,Safari,2023,Diesel,"17,421",Manual,17.28,"32,891",Ahmedabad
+Tata,Harrier,2020,Diesel,"65,087",Manual,15.2,"28,932",Ahmedabad
+Tata,Tiago,2020,Petrol,"37,366",Manual,4.75,"9,286",Gurgaon
+Tata,Harrier,2023,Diesel,"15,453",Automatic,20.53,"39,077",Gurgaon
+Tata,NEXON,2022,Petrol,"30,129",Automatic,10.51,"20,005",Gurgaon
+Tata,Harrier,2020,Diesel,"48,760",Automatic,15.96,"30,378",Gurgaon
+Tata,PUNCH,2021,Petrol,"14,582",Automatic,8.36,"15,912",Gurgaon
+Tata,NEXON,2020,Petrol,"61,402",Automatic,8.34,"15,874",Gurgaon
+Tata,Harrier,2019,Diesel,"52,860",Manual,12.54,"27,265",Gurgaon
+Tata,NEXON,2019,Petrol,"30,309",Automatic,7.58,"14,819",Gurgaon
+Tata,Tiago,2022,CNG,"36,048",,6.36,"12,434",Gurgaon
+Tata,NEXON,2022,Petrol,"22,251",Manual,8.52,"16,217",Gurgaon
+Tata,NEXON,2021,Petrol,"9,875",Manual,9.37,"17,835",Gurgaon
+Tata,NEXON,2019,CNG,"61,379",,7.35,"14,369",Gurgaon
+Tata,PUNCH,2022,Petrol,"7,652",Manual,7.07,"13,822",Gurgaon
+Tata,ALTROZ,2022,Petrol,"25,132",Automatic,8.22,"15,646",Gurgaon
+Tata,Tiago,2022,Petrol,"13,733",Manual,5.23,"10,225",Gurgaon
+Tata,ALTROZ,2021,Petrol,"40,167",Manual,6.29,"12,297",Gurgaon
+Tata,TIGOR,2022,CNG,"37,622",,7.34,"14,350",Gurgaon
+Tata,NEXON,2022,Petrol,"2,997",Manual,11.44,"21,775",Gurgaon
+Tata,PUNCH,2022,Petrol,"22,585",Manual,7.26,"14,193",Gurgaon
+Tata,Tiago,2020,Petrol,"66,943",Manual,5.82,"11,378",Gurgaon
+Tata,NEXON,2017,Diesel,"73,225",Manual,6.9,"13,490",Chennai
+Tata,PUNCH,2022,Petrol,"8,168",Manual,8.27,"15,741",Chennai
+Tata,ALTROZ,2020,Petrol,"40,422",Manual,7.13,"13,939",Chennai
+Tata,NEXON,2019,Petrol,"70,887",Automatic,8.28,"15,760",Chennai
+Tata,NEXON,2019,Petrol,"37,294",Manual,6.09,"11,910",Chennai
+Tata,TIGOR,2022,Petrol,"32,163",Manual,7.77,"15,190",Chennai
+Tata,Tiago,2017,Petrol,"80,180",Automatic,4.17,"8,152",Chennai
+Tata,Tiago,2020,Petrol,"51,659",Manual,4.64,"9,071",Chennai
+Tata,Harrier,2019,Diesel,"91,379",Manual,12.89,"24,535",Chennai
+Tata,Tiago,2018,Petrol,"58,624",Manual,4.17,"8,149",Chennai
+Tata,Zest,2016,Petrol,"82,161",Manual,4.33,"8,465",Chennai
+Tata,ALTROZ,2021,Petrol,"34,384",Manual,7.31,"14,291",Chennai
+Tata,Tiago,2017,Petrol,"36,099",Automatic,4.94,"9,658",Chennai
+Tata,ALTROZ,2021,Diesel,"37,914",Manual,7.29,"14,252",Chennai
+Tata,ALTROZ,2021,Petrol,"16,311",Manual,7.27,"14,213",Chennai
+Tata,NEXON,2021,Petrol,"31,015",Automatic,8.61,"16,388",Chennai
+Tata,Harrier,2019,Diesel,"73,015",Manual,12.99,"24,725",Chennai
+Tata,TIGOR,2018,Petrol,"41,522",Automatic,5.65,"11,046",Chennai
+Tata,Harrier,2019,Diesel,"43,879",Manual,13.15,"25,030",Chennai
+Tata,NEXON,2022,Petrol,"18,979",Automatic,9.05,"17,226",Chennai
+Tata,ALTROZ,2021,Petrol,"21,424",Manual,7.76,"15,171",Pune
+Tata,NEXON,2020,Petrol,"36,154",Manual,9.87,"18,787",Pune
+Tata,Tiago,2018,Diesel,"64,165",Manual,5.13,"10,029",Pune
+Tata,Tiago,2016,Petrol,"38,971",Manual,4.58,"8,954",Pune
+Tata,TIAGO,2023,CNG,"11,851",,7.35,"14,369",Pune
+Tata,Tiago,2021,Petrol,"10,325",Manual,6.51,"12,727",Pune
+Tata,Tiago,2016,Petrol,"36,448",Manual,4.6,"8,993",Pune
+Tata,PUNCH,2021,Petrol,"1,679",Automatic,8.72,"16,598",Pune
+Tata,Safari,2022,Diesel,"10,761",Automatic,24.28,"46,215",Pune
+Tata,Harrier,2021,Diesel,"66,925",Automatic,18.38,"34,985",Pune
+Tata,TIGOR,2022,CNG,"27,301",,7.94,"15,523",Pune
+Tata,PUNCH,2021,Petrol,"15,562",Manual,6.98,"13,646",Pune
+Tata,TIGOR,2019,Diesel,"51,335",Manual,5.45,"10,655",Pune
+Tata,PUNCH,2022,Petrol,"27,268",Automatic,8.38,"15,951",Pune
+Tata,NEXON,2022,Petrol,"26,891",Manual,10.69,"20,347",Pune
+Tata,Harrier,2021,Diesel,"82,054",Automatic,17.75,"33,785",Pune
+Tata,Tiago,2021,Petrol,"24,938",Automatic,6.3,"12,317",Pune
+Tata,NEXON,2019,Diesel,"45,716",Automatic,8.18,"15,570",Pune
+Tata,NEXON,2017,Diesel,"88,088",Manual,7.12,"13,920",Pune
+Tata,Tiago,2018,Petrol,"35,492",Manual,4.61,"9,013",Pune
+Tata,Tiago,2018,Petrol,"48,146",Manual,3.94,"7,703",Noida
+Tata,NEXON,2019,Petrol,"16,531",Automatic,7.54,"14,741",Noida
+Tata,NEXON,2019,CNG,"61,379",,7.35,"14,369",Noida
+Tata,Harrier,2019,Diesel,"73,787",Manual,11.02,"23,960",Noida
+Tata,Harrier,2022,Diesel,"23,517",Automatic,17.98,"34,223",Noida
+Tata,TIGOR,2022,Petrol,"14,235",Manual,5.92,"11,574",Noida
+Tata,Tiago,2021,Petrol,"7,432",Manual,5.41,"10,577",Noida
+Tata,Tiago,2021,Petrol,"33,889",Manual,5.43,"10,616",Noida
+Tata,NEXON,2019,Petrol,"73,135",Manual,7.17,"14,023",Noida
+Tata,ALTROZ,2022,Petrol,"17,688",Automatic,8.63,"16,426",Noida
+Tata,Tiago,2021,Petrol,"18,234",Manual,5.81,"11,359",Noida
+Tata,Tiago,2021,Petrol,"31,532",Manual,5.44,"10,635",Noida
+Tata,NEXON,2019,Diesel,"61,857",Automatic,7.32,"16,283",Noida
+Tata,Tiago,2021,Petrol,"21,869",Manual,5.73,"11,202",Noida
+Tata,ALTROZ,2021,Petrol,"2,493",Manual,6.99,"13,666",Noida
+Tata,ALTROZ,2022,Petrol,"25,132",Automatic,8.22,"15,646",Noida
+Tata,Tiago,2022,Petrol,"13,733",Manual,5.23,"10,225",Noida
+Tata,NEXON,2019,Diesel,"49,634",Automatic,7.82,"17,384",Noida
+Tata,ALTROZ,2021,Diesel,"38,295",Manual,7.31,"14,291",Noida
+Tata,Tiago,2019,Diesel,"74,448",Manual,4.82,"10,722",Noida
+Tata,Tiago,2022,Petrol,"5,256",Manual,5.81,"11,359",Kolkatta
+Tata,Tiago,2018,Petrol,"37,689",Manual,3.28,"6,412",Kolkatta
+Tata,TIAGO,2022,Petrol,"13,067",Automatic,6.51,"12,727",Kolkatta
+Tata,Tiago,2022,CNG,"5,286",,6.72,"13,138",Kolkatta
+Tata,ALTROZ,2021,Petrol,"57,776",Manual,6.08,"11,887",Kolkatta
+Tata,Tiago,2022,CNG,"3,965",,5.69,"11,132",Kolkatta
+Tata,NEXON,2022,Petrol,"3,605",Automatic,9.98,"18,996",Kolkatta
+Tata,Tiago,2022,CNG,"16,803",,6.67,"13,040",Kolkatta
+Tata,NEXON,2020,Petrol,"27,022",Manual,9.54,"18,149",Kolkatta
+Tata,NEXON,2022,Petrol,"22,740",Manual,9.23,"17,568",Kolkatta
+Tata,Tiago,2020,Petrol,"17,029",Automatic,5.87,"11,476",Kolkatta
+Tata,ALTROZ,2020,Petrol,"12,191",Manual,7.35,"14,369",Kolkatta
+Tata,NEXON,2017,Petrol,"68,052",Manual,4.61,"9,013",Kolkatta
+Maruti,Swift ZXI,2018,Petrol,"1,06",Automatic,6.03,"13,413",Hyderabad
+Maruti,Dzire VXI,2020,Petrol,"55,344",Automatic,7.18,"14,037",Hyderabad
+Maruti,Baleno DELTA,2018,Petrol,"46,776",Manual,5.65,"11,046",Hyderabad
+Maruti,Alto K10,2011,Petrol,"81,585",Manual,1.97,"9,273",Hyderabad
+Maruti,Swift Dzire,2011,Petrol,"69,906",Manual,3.17,"14,922",Hyderabad
+Maruti,Alto K10,2018,Petrol,"1,02",Manual,3.39,"7,541",Hyderabad
+Maruti,Alto K10,2016,Petrol,"35,123",Manual,3.09,"6,041",Hyderabad
+Maruti,Alto 800,2016,Petrol,"49,933",Manual,2.63,"5,142",Hyderabad
+Maruti,Dzire VXI,2018,Petrol,"43,091",Automatic,6.16,"12,043",Hyderabad
+Maruti,Ertiga ZDI,2013,Diesel,"91,696",Manual,6.05,"20,095",Hyderabad
+Maruti,Vitara Brezza,2016,Diesel,"1,01",Manual,7.66,"17,039",Hyderabad
+Maruti,Baleno DELTA,2018,Petrol,"54,487",Manual,5.7,"11,144",Hyderabad
+Maruti,Swift VXI,2015,Petrol,"94,507",Manual,4.27,"8,348",Hyderabad
+Maruti,Baleno ALPHA,2019,Petrol,"73,566",Manual,6.92,"13,529",Hyderabad
+Maruti,Swift Dzire,2016,Petrol,"1,10",Manual,5.12,"11,389",Hyderabad
+Maruti,Baleno ALPHA,2016,Petrol,"61,719",Manual,5.99,"11,711",Hyderabad
+Maruti,Alto K10,2011,Petrol,"88,373",Manual,1.78,"8,379",Hyderabad
+Maruti,Swift ZXI,2021,Petrol,"14,575",Automatic,7.46,"14,584",Hyderabad
+Maruti,Swift VDI,2016,Diesel,"85,898",Manual,4.94,"9,658",Hyderabad
+Maruti,Swift VDI,2017,Diesel,"65,942",Manual,5.58,"10,899",Hyderabad
+Maruti,Swift ZXI,2017,Petrol,"57,062",Manual,6.76,"13,216",Bangalore
+Maruti,Swift VXI,2012,Petrol,"64,557",Manual,4.63,"15,378",Bangalore
+Maruti,Swift Dzire,2012,Petrol,"73,267",Manual,4.57,"15,179",Bangalore
+Maruti,IGNIS ZETA,2017,Petrol,"22,456",Automatic,6.12,"11,965",Bangalore
+Maruti,Celerio ZXI,2018,Petrol,"41,806",Manual,5.14,"10,049",Bangalore
+Maruti,Alto K10,2016,Petrol,"65,484",Manual,3.18,"6,217",Bangalore
+Maruti,Swift Dzire,2013,Petrol,"51,607",Manual,4.59,"12,087",Bangalore
+Maruti,Celerio ZXI,2015,Petrol,"25,710",Manual,4.59,"8,974",Bangalore
+Maruti,Ciaz ALPHA,2019,Petrol,"62,586",Manual,7.91,"15,464",Bangalore
+Maruti,Alto 800,2012,Petrol,"72,097",Manual,2.77,"9,200",Bangalore
+Maruti,Baleno ALPHA,2019,Petrol,"34,783",Automatic,8.32,"15,836",Bangalore
+Maruti,Celerio ZXI,2018,Petrol,"80,488",Automatic,4.72,"9,228",Bangalore
+Maruti,Wagon R,2016,Petrol,"44,938",Manual,4.37,"8,543",Bangalore
+Maruti,Celerio X,2018,Petrol,"39,995",Manual,4.29,"8,387",Bangalore
+Maruti,Wagon R,2016,Petrol,"40,428",Automatic,4.53,"8,856",Bangalore
+Maruti,Celerio ZXI,2018,Petrol,"12,669",Manual,5.35,"10,459",Bangalore
+Maruti,Celerio VXI,2019,Petrol,"28,904",Manual,5.41,"10,577",Bangalore
+Maruti,S PRESSO,2023,Petrol,"5,812",Manual,5.22,"10,205",Bangalore
+Maruti,Swift Dzire,2014,Diesel,"89,284",Manual,5.78,"15,221",Bangalore
+Maruti,Ciaz ZDI,2016,Diesel,"60,384",Manual,7.52,"14,702",Bangalore
+Maruti,Swift Dzire,2015,Petrol,"63,998",Manual,5.1,"9,971",Mumbai
+Maruti,Swift Dzire,2014,Diesel,"11,144",Manual,6.13,"16,143",Mumbai
+Maruti,Ertiga ZDI,2017,Diesel,"94,511",Manual,9.29,"17,683",Mumbai
+Maruti,Baleno DELTA,2016,Petrol,"43,273",Manual,5.05,"9,873",Mumbai
+Maruti,Ciaz ZETA,2018,Petrol,"18,001",Manual,7.89,"15,425",Mumbai
+Maruti,Swift Dzire,2013,Petrol,"98,655",Manual,3.53,"9,296",Mumbai
+Maruti,Wagon R,2017,Petrol,"49,006",Automatic,4.01,"7,840",Mumbai
+Maruti,IGNIS DELTA,2017,Petrol,"48,719",Automatic,4.75,"9,286",Mumbai
+Maruti,Dzire VXI,2017,Petrol,"36,163",Automatic,5.53,"10,811",Mumbai
+Maruti,Swift Dzire,2014,Diesel,"1,14",Manual,5.16,"13,588",Mumbai
+Maruti,Alto K10,2016,Petrol,"58,850",Manual,2.89,"5,650",Mumbai
+Maruti,Swift Dzire,2016,Petrol,"34,315",Manual,5.13,"10,029",Mumbai
+Maruti,Ciaz VXI,2015,Petrol,"76,237",Manual,4.97,"9,716",Mumbai
+Maruti,Baleno DELTA,2019,Petrol,"24,441",Manual,5.81,"11,359",Mumbai
+Maruti,Alto 800,2016,Petrol,"45,935",Manual,2.73,"5,337",Mumbai
+Maruti,Ciaz SIGMA,2017,Petrol,"75,480",Manual,5.55,"10,850",Mumbai
+Maruti,IGNIS ALPHA,2019,Petrol,"22,343",Manual,5.81,"11,359",Mumbai
+Maruti,Baleno DELTA,2016,Petrol,"33,929",Automatic,5.49,"10,733",Mumbai
+Maruti,New Wagon,2022,Petrol,"31,378",Manual,5.87,"11,476",Mumbai
+Maruti,Alto K10,2013,Petrol,"52,286",Manual,1.84,"4,845",Mumbai
+Maruti,Vitara Brezza,2020,Petrol,"46,380",Manual,6.58,"12,864",Delhi
+Maruti,Wagon R,2017,Petrol,"79,416",Manual,3.23,"6,315",Delhi
+Maruti,Swift LXI,2018,Petrol,"53,062",Manual,4.64,"9,071",Delhi
+Maruti,Swift VXI,2023,Petrol,"10,050",Manual,7.42,"14,506",Delhi
+Maruti,Swift LXI,2016,Petrol,"62,838",Manual,3.75,"7,331",Delhi
+Maruti,Swift VXI,2023,Petrol,"14,847",Manual,6.63,"12,962",Delhi
+Maruti,Alto 800,2018,Petrol,"89,267",Manual,2.78,"5,435",Delhi
+Maruti,Baleno ALPHA,2022,CNG,"32,318",,8.54,"16,255",Delhi
+Maruti,Dzire LDI,2019,Diesel,"40,432",Manual,5.24,"11,656",Delhi
+Maruti,Swift LXI,2017,Petrol,"22,690",Manual,4.44,"8,680",Delhi
+Maruti,Dzire VXI,2017,Petrol,"33,911",Manual,4.81,"9,404",Delhi
+Maruti,Baleno SIGMA,2022,Petrol,"4,296",Manual,5.97,"11,671",Delhi
+Maruti,Wagon R,2014,Petrol,"72,025",Manual,2.8,"6,228",Delhi
+Maruti,Baleno DELTA,2019,Petrol,"62,932",Manual,5.29,"10,342",Delhi
+Maruti,Celerio VXI,2018,Petrol,"11,942",Manual,4.23,"8,262",Delhi
+Maruti,Wagon R,2012,Petrol,"30,121",Manual,2.07,"6,875",Delhi
+Maruti,Swift VXI,2016,CNG,"68,389",,3.99,"8,876",Delhi
+Maruti,Ciaz ZETA,2017,Petrol,"23,202",Automatic,7.89,"15,425",Delhi
+Maruti,Dzire LXI,2017,Petrol,"22,148",Manual,4.98,"9,736",Delhi
+Maruti,Swift VXI,2017,CNG,"60,771",,4.59,"8,974",Delhi
+Maruti,Baleno DELTA,2020,Petrol,"52,486",Manual,6.02,"11,769",Ahmedabad
+Maruti,IGNIS DELTA,2020,Petrol,"40,358",Manual,5.36,"10,479",Ahmedabad
+Maruti,Ciaz DELTA,2021,Petrol,"21,951",Manual,7.94,"15,523",Ahmedabad
+Maruti,Ertiga VDI,2017,Diesel,"84,414",Manual,7.63,"14,917",Ahmedabad
+Maruti,Alto 800,2013,Petrol,"34,893",Manual,2.2,"5,793",Ahmedabad
+Maruti,Swift VXI,2015,Petrol,"73,246",Manual,4.27,"8,348",Ahmedabad
+Maruti,Ertiga ZXI,2022,Petrol,"18,884",Manual,10.97,"20,890",Ahmedabad
+Maruti,Swift VXI,2018,CNG,"91,586",,5.24,"10,252",Ahmedabad
+Maruti,XL6 ZETA,2022,Petrol,"27,084",Manual,10.47,"19,929",Ahmedabad
+Maruti,Dzire VXI,2017,Petrol,"51,962",Manual,5.77,"11,280",Ahmedabad
+Maruti,Vitara Brezza,2016,Diesel,"76,077",Manual,5.95,"11,632",Ahmedabad
+Maruti,Ciaz ALPHA,2019,Petrol,"45,144",Automatic,7.92,"15,484",Ahmedabad
+Maruti,Ciaz ZXI,2016,Petrol,"40,789",Manual,7.79,"15,230",Ahmedabad
+Maruti,Baleno DELTA,2016,Petrol,"1,03",Manual,4.29,"9,543",Ahmedabad
+Maruti,Baleno DELTA,2019,Petrol,"58,506",Manual,5.92,"11,574",Ahmedabad
+Maruti,Baleno DELTA,2017,Petrol,"51,814",Manual,4.82,"9,423",Ahmedabad
+Maruti,S PRESSO,2021,Petrol,"38,521",Manual,4.17,"8,152",Ahmedabad
+Maruti,Ciaz ZETA,2017,Petrol,"66,409",Manual,5.55,"10,850",Ahmedabad
+Maruti,Ciaz ALPHA,2017,Petrol,"95,675",Automatic,5.48,"10,714",Ahmedabad
+Maruti,Baleno ZETA,2020,Petrol,"58,903",Manual,6.82,"13,333",Ahmedabad
+Maruti,Vitara Brezza,2020,Petrol,"46,380",Manual,6.58,"12,864",Gurgaon
+Maruti,Swift LXI,2018,Petrol,"53,062",Manual,4.64,"9,071",Gurgaon
+Maruti,Swift VXI,2023,Petrol,"10,050",Manual,7.42,"14,506",Gurgaon
+Maruti,Baleno ALPHA,2022,CNG,"32,318",,8.54,"16,255",Gurgaon
+Maruti,Swift VXI,2023,Petrol,"14,847",Manual,6.63,"12,962",Gurgaon
+Maruti,Baleno SIGMA,2022,Petrol,"4,296",Manual,5.97,"11,671",Gurgaon
+Maruti,Swift VXI,2016,CNG,"68,389",,3.99,"8,876",Gurgaon
+Maruti,Baleno ALPHA,2019,Petrol,"52,201",Manual,6.48,"12,674",Gurgaon
+Maruti,Swift VXI,2017,CNG,"60,771",,4.59,"8,974",Gurgaon
+Maruti,Ertiga VXI,2016,Petrol,"38,683",Manual,6.68,"13,060",Gurgaon
+Maruti,New Wagon,2021,CNG,"28,760",,5.39,"10,538",Gurgaon
+Maruti,Wagon R,2018,CNG,"1,04",,3.37,"7,496",Gurgaon
+Maruti,Vitara Brezza,2019,Diesel,"50,767",Manual,7.26,"16,149",Gurgaon
+Maruti,Wagon R,2014,Petrol,"72,025",Manual,2.8,"6,228",Gurgaon
+Maruti,Baleno SIGMA,2021,Petrol,"20,042",Manual,5.92,"11,574",Gurgaon
+Maruti,XL6 ZETA,2019,Petrol,"21,515",Automatic,10.8,"20,557",Gurgaon
+Maruti,Baleno DELTA,2019,Petrol,"35,908",Automatic,6.36,"12,434",Gurgaon
+Maruti,Dzire VXI,2017,Petrol,"33,911",Manual,4.81,"9,404",Gurgaon
+Maruti,Baleno DELTA,2021,Petrol,"18,460",Manual,6.49,"12,688",Gurgaon
+Maruti,Baleno ZETA,2016,Petrol,"74,460",Manual,4.41,"8,625",Gurgaon
+Maruti,Swift ZXI,2018,Petrol,"58,071",Automatic,6.19,"12,102",Chennai
+Maruti,Swift VXI,2017,Petrol,"38,020",Manual,5.64,"11,026",Chennai
+Maruti,Baleno ZETA,2018,Diesel,"77,702",Manual,6.57,"12,844",Chennai
+Maruti,Baleno RS,2017,Petrol,"90,811",Manual,6.51,"12,727",Chennai
+Maruti,S PRESSO,2019,Petrol,"54,226",Automatic,5,"9,775",Chennai
+Maruti,Swift Dzire,2013,Petrol,"93,066",Manual,4.48,"11,798",Chennai
+Maruti,Swift Dzire,2012,Diesel,"82,041",Manual,4.19,"19,724",Chennai
+Maruti,IGNIS ZETA,2017,Petrol,"1,13",Automatic,4.75,"10,566",Chennai
+Maruti,New Wagon,2020,Petrol,"32,577",Manual,5.22,"10,205",Chennai
+Maruti,Swift VDI,2014,Diesel,"82,800",Manual,4.58,"12,061",Chennai
+Maruti,Celerio X,2018,Petrol,"49,923",Automatic,4.29,"8,387",Chennai
+Maruti,New Wagon,2019,Petrol,"73,728",Manual,4.85,"9,482",Chennai
+Maruti,Alto 800,2016,Petrol,"75,749",Manual,2.57,"5,024",Chennai
+Maruti,Dzire VXI,2017,Petrol,"85,962",Manual,6.73,"13,157",Chennai
+Maruti,Dzire VXI,2017,Petrol,"45,846",Manual,6.73,"13,157",Chennai
+Maruti,Dzire VXI,2017,Petrol,"42,759",Automatic,6.02,"11,765",Chennai
+Maruti,Swift ZDI,2018,Diesel,"1,04",Automatic,5.84,"12,991",Chennai
+Maruti,Swift ZXI,2017,Petrol,"52,414",Manual,5.81,"11,359",Chennai
+Maruti,Dzire ZDI,2017,Diesel,"67,904",Automatic,7.17,"14,017",Chennai
+Maruti,IGNIS ZETA,2017,Petrol,"44,143",Manual,4.69,"9,169",Chennai
+Maruti,Swift VXI,2016,Petrol,"65,853",Manual,4.78,"9,345",Pune
+Maruti,S PRESSO,2022,Petrol,"28,814",Manual,4.45,"8,700",Pune
+Maruti,Alto 800,2013,CNG,"76,448",,2.62,"12,333",Pune
+Maruti,Swift VXI,2014,Petrol,"53,224",Manual,3.84,"8,542",Pune
+Maruti,Alto K10,2011,Petrol,"55,450",Manual,1.66,"7,814",Pune
+Maruti,Swift Dzire,2014,Petrol,"95,257",Manual,4.19,"9,320",Pune
+Maruti,XL6 ALPHA,2019,Petrol,"12,179",Manual,9.3,"17,702",Pune
+Maruti,New Wagon,2021,Petrol,"15,408",Manual,5.81,"11,359",Pune
+Maruti,A Star,2011,Petrol,"79,149",Manual,1.49,"7,014",Pune
+Maruti,New Wagon,2022,Petrol,"20,371",Manual,6.07,"11,867",Pune
+Maruti,A Star,2012,Petrol,"62,932",Automatic,2.07,"6,875",Pune
+Maruti,Wagon R,2015,Petrol,"86,239",Manual,2.99,"5,846",Pune
+Maruti,Alto 800,2012,Petrol,"55,022",Manual,1.86,"6,178",Pune
+Maruti,Baleno ZETA,2016,Petrol,"46,460",Manual,4.61,"9,013",Pune
+Maruti,Swift VXI,2011,Petrol,"55,932",Manual,2.8,"13,181",Pune
+Maruti,Swift VXI,2019,Petrol,"35,307",Automatic,6.35,"12,414",Pune
+Maruti,Dzire VXI,2020,Petrol,"37,206",Manual,6.59,"12,884",Pune
+Maruti,Alto K10,2015,Petrol,"58,179",Manual,2.64,"5,161",Pune
+Maruti,Swift Dzire,2015,Diesel,"39,142",Manual,6.76,"15,037",Pune
+Maruti,Swift VDI,2014,Diesel,"86,749",Manual,4.48,"11,798",Pune
+Maruti,Baleno DELTA,2021,Petrol,"18,460",Manual,6.49,"12,688",Noida
+Maruti,Baleno DELTA,2019,Petrol,"35,908",Automatic,6.36,"12,434",Noida
+Maruti,Baleno SIGMA,2021,Petrol,"20,042",Manual,5.92,"11,574",Noida
+Maruti,Ciaz ZETA,2017,Petrol,"23,202",Automatic,7.89,"15,425",Noida
+Maruti,Baleno DELTA,2021,Petrol,"4,092",Manual,7.07,"13,822",Noida
+Maruti,IGNIS SIGMA,2021,Petrol,"24,552",Manual,5.26,"10,283",Noida
+Maruti,Alto LXI,2021,Petrol,"2,535",Manual,3.63,"7,097",Noida
+Maruti,Swift VXI,2023,Petrol,"10,050",Manual,7.42,"14,506",Noida
+Maruti,New Wagon,2023,CNG,"7,077",,6.17,"12,057",Noida
+Maruti,Swift LXI,2016,Petrol,"62,838",Manual,3.75,"7,331",Noida
+Maruti,Alto K10,2015,Petrol,"47,288",Automatic,3.11,"6,080",Noida
+Maruti,Dzire VXI,2017,Petrol,"33,911",Manual,4.81,"9,404",Noida
+Maruti,Vitara Brezza,2020,Petrol,"46,380",Manual,6.58,"12,864",Noida
+Maruti,Wagon R,2016,Petrol,"67,338",Automatic,3.36,"6,578",Noida
+Maruti,Swift VXI,2015,Petrol,"91,281",Manual,4.31,"8,426",Noida
+Maruti,Wagon R,2013,Petrol,"82,158",Manual,2.36,"6,215",Noida
+Maruti,Baleno ZETA,2019,Petrol,"96,146",Manual,5.48,"10,714",Noida
+Maruti,IGNIS SIGMA,2021,Petrol,"44,980",Manual,4.94,"9,661",Noida
+Maruti,Swift VXI,2021,Petrol,"11,386",Automatic,6.75,"13,196",Noida
+Maruti,Dzire LDI,2019,Diesel,"40,432",Manual,5.24,"11,656",Noida
+Maruti,Wagon R,2012,Petrol,"23,930",Manual,2.06,"6,842",Kolkatta
+Maruti,Vitara Brezza,2021,Petrol,"34,595",Manual,6.99,"13,666",Kolkatta
+Maruti,Alto VXI,2020,Petrol,"18,697",Manual,3.45,"6,745",Kolkatta
+Maruti,Dzire VXI,2019,Petrol,"51,837",Manual,5.38,"10,518",Kolkatta
+Maruti,Alto 800,2015,Petrol,"44,989",Manual,2.08,"4,076",Kolkatta
+Maruti,Swift LXI,2018,Petrol,"52,408",Manual,4.23,"8,270",Kolkatta
+Maruti,Celerio ZXI,2016,Petrol,"98,244",Manual,2.78,"5,435",Kolkatta
+Maruti,Celerio LXI,2021,Petrol,"41,248",Manual,4.36,"8,527",Kolkatta
+Maruti,Alto VXI,2021,Petrol,"72,789",Manual,3.09,"6,041",Kolkatta
+Maruti,IGNIS ZETA,2020,Petrol,"24,687",Manual,4.73,"9,241",Kolkatta
+Maruti,Ciaz VDI,2016,Diesel,"78,113",Manual,4.32,"8,446",Kolkatta
+Maruti,Celerio VXI,2022,CNG,"19,907",,5.33,"10,420",Kolkatta
+Maruti,S PRESSO,2023,Petrol,"6,147",Manual,5.11,"9,990",Kolkatta
+Maruti,Celerio X,2018,Petrol,"22,765",Manual,4.07,"7,961",Kolkatta
+Maruti,Swift ZXI,2022,Petrol,"6,790",Manual,7.35,"14,369",Kolkatta
+Maruti,Swift VXI,2019,Petrol,"3,277",Automatic,5.49,"10,733",Kolkatta
+Maruti,IGNIS DELTA,2019,Petrol,"19,469",Automatic,4.57,"8,934",Kolkatta
+Maruti,Celerio ZXI,2022,Petrol,,,5.76,"11,261",Kolkatta
+Maruti,Wagon R,2012,Petrol,"66,588",Manual,2.1,"6,975",Kolkatta
+Maruti,Wagon R,2012,Petrol,"37,744",Manual,2.37,"7,872",Kolkatta
+Hyundai,VENUE SX,2022,Petrol,"19,887",Manual,11.41,"21,718",Hyderabad
+Hyundai,Verna FLUIDIC,2011,Diesel,"1,09",Manual,3.89,"34,562",Hyderabad
+Hyundai,i20 Active,2017,Petrol,"95,737",Manual,6.31,"12,336",Hyderabad
+Hyundai,GRAND I10,2020,Petrol,"70,045",Manual,6.59,"12,884",Hyderabad
+Hyundai,Elite i20,2016,Petrol,"84,401",Manual,6.08,"11,887",Hyderabad
+Hyundai,GRAND I10,2021,Diesel,"40,490",Automatic,8.07,"15,361",Hyderabad
+Hyundai,Grand i10,2015,Petrol,"51,172",Manual,4.55,"8,895",Hyderabad
+Hyundai,GRAND I10,2020,Petrol,"10,622",Manual,7.17,"14,017",Hyderabad
+Hyundai,Grand i10,2014,Petrol,"68,249",Automatic,4.64,"10,321",Hyderabad
+Hyundai,Elite i20,2016,Petrol,"74,062",Manual,5.67,"11,085",Hyderabad
+Hyundai,Creta SX,2017,Diesel,"99,288",Manual,8.75,"16,653",Hyderabad
+Hyundai,NEW SANTRO,2019,Petrol,"55,481",Automatic,5.13,"10,029",Hyderabad
+Hyundai,Grand i10,2015,Petrol,"79,787",Automatic,4,"7,820",Hyderabad
+Hyundai,Elite i20,2015,Petrol,"48,807",Manual,5.23,"10,225",Hyderabad
+Hyundai,Verna 1,2017,Petrol,"85,902",Manual,6.68,"13,060",Hyderabad
+Hyundai,Eon ERA,2013,Petrol,"24,996",Manual,2.31,"6,083",Hyderabad
+Hyundai,Verna 1,2018,Diesel,"69,410",Automatic,9.69,"18,444",Hyderabad
+Hyundai,Verna 1,2019,Diesel,"67,733",Automatic,9.76,"18,577",Hyderabad
+Hyundai,VENUE SX,2021,Petrol,"37,490",Manual,10.43,"19,853",Hyderabad
+Hyundai,NEW SANTRO,2018,Petrol,"84,985",Automatic,4.36,"8,524",Hyderabad
+Hyundai,Creta SX,2016,Petrol,"61,423",Automatic,9.82,"18,691",Bangalore
+Hyundai,Santro Xing,2011,Petrol,"54,720",Manual,2.6,"12,239",Bangalore
+Hyundai,Creta E,2017,Petrol,"55,852",Manual,8.89,"16,921",Bangalore
+Hyundai,GRAND I10,2020,Petrol,"24,787",Automatic,7.49,"14,643",Bangalore
+Hyundai,Grand i10,2015,Petrol,"84,607",Manual,4.16,"8,133",Bangalore
+Hyundai,GRAND I10,2019,Petrol,"46,296",Automatic,6.89,"13,470",Bangalore
+Hyundai,VENUE S,2022,Petrol,"15,798",Manual,9.08,"17,283",Bangalore
+Hyundai,GRAND I10,2019,Petrol,"22,593",Automatic,7.36,"14,389",Bangalore
+Hyundai,GRAND I10,2019,Petrol,"36,365",Automatic,6.92,"13,529",Bangalore
+Hyundai,i20 SPORTZ,2013,Petrol,"56,822",Automatic,4.39,"11,561",Bangalore
+Hyundai,Creta SX,2016,Petrol,"89,089",Manual,7.6,"14,858",Bangalore
+Hyundai,GRAND I10,2023,Petrol,"11,028",Manual,8.01,"15,246",Bangalore
+Hyundai,Verna SX,2021,Petrol,,,13.19,"25,106",Bangalore
+Hyundai,VENUE S,2022,Petrol,"18,184",Manual,9.16,"17,435",Bangalore
+Hyundai,AURA SX,2022,Petrol,"9,393",Automatic,8.95,"17,036",Bangalore
+Hyundai,Verna FLUIDIC,2012,Petrol,"88,309",Manual,4.62,"15,345",Bangalore
+Hyundai,GRAND I10,2021,Petrol,"37,258",Manual,7.21,"14,096",Bangalore
+Hyundai,i20 SPORTZ,2011,Petrol,"1,11",Manual,3.53,"16,617",Bangalore
+Hyundai,VENUE SX,2021,Petrol,"25,798",Manual,10.23,"19,472",Bangalore
+Hyundai,Elite i20,2018,Petrol,"37,225",Manual,7.51,"14,682",Bangalore
+Hyundai,i10 SPORTZ,2014,Petrol,"58,868",Manual,3.13,"6,963",Mumbai
+Hyundai,Elite i20,2016,Petrol,"62,056",Manual,5.13,"10,029",Mumbai
+Hyundai,Verna 1,2017,Petrol,"57,376",Automatic,5.9,"11,535",Mumbai
+Hyundai,Elite i20,2018,Petrol,"56,065",Manual,6.88,"13,451",Mumbai
+Hyundai,Creta SX,2016,Petrol,"83,626",Automatic,8.54,"16,255",Mumbai
+Hyundai,Creta SX,2017,Diesel,"55,424",Manual,9.36,"17,816",Mumbai
+Hyundai,Creta E,2018,Petrol,"54,510",Manual,7.82,"15,288",Mumbai
+Hyundai,i10 MAGNA,2014,Petrol,"41,374",Manual,2.44,"5,428",Mumbai
+Hyundai,Elite i20,2016,Petrol,"65,426",Manual,5.31,"10,381",Mumbai
+Hyundai,Grand i10,2017,Petrol,"36,986",Manual,4.17,"8,152",Mumbai
+Hyundai,Elite i20,2015,Petrol,"30,036",Manual,4.52,"8,837",Mumbai
+Hyundai,Creta SX,2019,Petrol,"70,430",Manual,9.13,"17,378",Mumbai
+Hyundai,Xcent S,2014,Petrol,"20,179",Manual,3.91,"8,698",Mumbai
+Hyundai,i20 MAGNA,2012,Petrol,"54,639",Manual,3.16,"10,496",Mumbai
+Hyundai,Eon MAGNA,2013,Petrol,"96,369",Manual,1.74,"4,582",Mumbai
+Hyundai,Elite i20,2015,Petrol,"63,269",Manual,4.04,"7,898",Mumbai
+Hyundai,Creta E,2016,Petrol,"56,586",Manual,6.94,"13,568",Mumbai
+Hyundai,AURA S,2020,CNG,"53,586",,6.46,"12,629",Mumbai
+Hyundai,i10 MAGNA,2012,Petrol,"36,609",Manual,1.93,"6,410",Mumbai
+Hyundai,Elite i20,2019,Petrol,"25,392",Automatic,6.27,"12,258",Mumbai
+Hyundai,NEW I20,2021,Petrol,"26,849",Manual,7.27,"14,213",Delhi
+Hyundai,Elite i20,2017,Petrol,"56,774",Manual,4.97,"9,716",Delhi
+Hyundai,Grand i10,2015,Petrol,"71,787",Manual,3.18,"6,217",Delhi
+Hyundai,Grand i10,2015,Petrol,"40,409",Manual,3.55,"6,940",Delhi
+Hyundai,Creta SX,2016,Petrol,"91,001",Manual,6.89,"13,470",Delhi
+Hyundai,Creta SX,2020,Petrol,"24,955",Automatic,16.77,"31,920",Delhi
+Hyundai,i10 MAGNA,2012,Petrol,"50,292",Manual,1.88,"6,244",Delhi
+Hyundai,Verna FLUIDIC,2013,Petrol,"37,133",Manual,4.32,"11,376",Delhi
+Hyundai,Grand i10,2017,Petrol,"89,733",Automatic,4.99,"9,756",Delhi
+Hyundai,Verna 1,2019,Petrol,"42,303",Manual,7.85,"15,347",Delhi
+Hyundai,Creta S,2016,Petrol,"54,986",Manual,7.08,"13,842",Delhi
+Hyundai,Creta SX,2019,Petrol,"45,768",Automatic,10.94,"20,823",Delhi
+Hyundai,Elite i20,2018,Petrol,"48,575",Manual,5.81,"11,359",Delhi
+Hyundai,Grand i10,2018,Petrol,"31,000",Manual,4.43,"8,661",Delhi
+Hyundai,i20 MAGNA,2011,Petrol,"32,646",Manual,1.83,"8,614",Delhi
+Hyundai,Creta BASE,2016,Petrol,"82,912",Manual,6.14,"12,004",Delhi
+Hyundai,i10 MAGNA,2014,Petrol,"85,238",Manual,2.52,"5,606",Delhi
+Hyundai,Verna FLUIDIC,2013,Petrol,"42,188",Manual,3.81,"10,033",Delhi
+Hyundai,Verna FLUIDIC,2013,Petrol,"43,161",Manual,3.74,"9,849",Delhi
+Hyundai,XCENT PRIME,2021,CNG,"30,541",,6.7,"13,099",Delhi
+Hyundai,NEW I20,2021,Petrol,"41,474",Manual,7.47,"14,604",Ahmedabad
+Hyundai,NEW I20,2021,Petrol,"26,101",Manual,8.81,"16,769",Ahmedabad
+Hyundai,Santro Xing,2014,Petrol,"1,00",Manual,2.88,"6,406",Ahmedabad
+Hyundai,GRAND I10,2021,Petrol,"39,064",Manual,6.55,"12,805",Ahmedabad
+Hyundai,Elite i20,2017,Diesel,"1,01",Manual,6.64,"14,770",Ahmedabad
+Hyundai,Creta SX,2022,Petrol,"20,864",Manual,13.2,"25,125",Ahmedabad
+Hyundai,Creta SX,2016,Petrol,"54,620",Manual,8.48,"16,141",Ahmedabad
+Hyundai,Creta SX,2016,Petrol,"77,051",Automatic,8.62,"16,407",Ahmedabad
+Hyundai,Elite i20,2015,Petrol,"31,833",Manual,5.53,"10,819",Ahmedabad
+Hyundai,Creta EX,2022,Petrol,"34,360",Manual,11.06,"21,052",Ahmedabad
+Hyundai,Verna 1,2017,Diesel,"90,504",Manual,7.86,"15,366",Ahmedabad
+Hyundai,i10 MAGNA,2013,CNG,"67,521",,2.96,"13,934",Ahmedabad
+Hyundai,GRAND I10,2021,Petrol,"23,540",Automatic,6.16,"12,043",Ahmedabad
+Hyundai,Verna FLUIDIC,2014,Petrol,"1,12",Manual,4.16,"9,254",Ahmedabad
+Hyundai,Creta SX,2022,Diesel,"17,456",Manual,16.11,"30,654",Ahmedabad
+Hyundai,Verna 1,2017,Petrol,"64,198",Automatic,9.52,"18,120",Ahmedabad
+Hyundai,i20 SPORTZ,2011,Petrol,"69,499",Manual,2.9,"13,651",Ahmedabad
+Hyundai,Creta E,2018,Petrol,"1,14",Manual,7.34,"16,327",Ahmedabad
+Hyundai,VENUE SX,2019,Petrol,"99,715",Manual,7.46,"14,584",Ahmedabad
+Hyundai,GRAND I10,2022,CNG,"22,434",,7.22,"14,115",Ahmedabad
+Hyundai,Creta SX,2020,Petrol,"24,955",Automatic,16.77,"31,920",Gurgaon
+Hyundai,NEW I20,2021,Petrol,"26,849",Manual,7.27,"14,213",Gurgaon
+Hyundai,Verna FLUIDIC,2013,Petrol,"37,133",Manual,4.32,"11,376",Gurgaon
+Hyundai,Grand i10,2017,Petrol,"89,733",Automatic,4.99,"9,756",Gurgaon
+Hyundai,Elite i20,2017,Petrol,"56,774",Manual,4.97,"9,716",Gurgaon
+Hyundai,Grand i10,2015,Petrol,"40,409",Manual,3.55,"6,940",Gurgaon
+Hyundai,Creta SX,2016,Petrol,"91,001",Manual,6.89,"13,470",Gurgaon
+Hyundai,Elite i20,2018,Petrol,"77,860",Manual,5.37,"10,498",Gurgaon
+Hyundai,Creta S,2016,Petrol,"54,986",Manual,7.08,"13,842",Gurgaon
+Hyundai,Creta SX,2016,Petrol,"68,339",Manual,8.27,"15,741",Gurgaon
+Hyundai,Grand i10,2015,Petrol,"71,787",Manual,3.18,"6,217",Gurgaon
+Hyundai,Creta SX,2021,Diesel,"42,584",Manual,15.9,"30,264",Gurgaon
+Hyundai,Grand i10,2018,Petrol,"31,000",Manual,4.43,"8,661",Gurgaon
+Hyundai,Elite i20,2018,Petrol,"48,575",Manual,5.81,"11,359",Gurgaon
+Hyundai,i10 MAGNA,2012,Petrol,"50,292",Manual,1.88,"6,244",Gurgaon
+Hyundai,Creta S,2016,Petrol,"77,095",Manual,7,"13,685",Gurgaon
+Hyundai,Elite i20,2017,Petrol,"64,237",Manual,5,"9,775",Gurgaon
+Hyundai,Creta BASE,2016,Petrol,"82,912",Manual,6.14,"12,004",Gurgaon
+Hyundai,AURA S,2022,CNG,"36,335",,6.83,"13,353",Gurgaon
+Hyundai,Elite i20,2015,Petrol,"80,069",Manual,4.58,"8,954",Gurgaon
+Hyundai,Elite i20,2014,Petrol,"45,956",Manual,5.26,"11,701",Chennai
+Hyundai,Elite i20,2019,Petrol,"73,474",Manual,7.05,"13,783",Chennai
+Hyundai,VENUE SX,2020,Petrol,"25,351",Manual,8.97,"17,074",Chennai
+Hyundai,Grand i10,2013,Petrol,"67,043",Manual,3.8,"10,007",Chennai
+Hyundai,Grand i10,2018,Petrol,"33,598",Automatic,6.12,"11,965",Chennai
+Hyundai,Grand i10,2019,Petrol,"23,731",Manual,6.16,"12,043",Chennai
+Hyundai,Elite i20,2015,Petrol,"89,816",Manual,5.22,"10,205",Chennai
+Hyundai,NEW SANTRO,2019,Petrol,"40,178",Automatic,5.78,"11,300",Chennai
+Hyundai,Elite i20,2016,Petrol,"39,004",Manual,4.72,"9,228",Chennai
+Hyundai,Elite i20,2016,Petrol,"90,064",Manual,5.37,"10,498",Chennai
+Hyundai,Eon ERA,2015,Petrol,"65,164",Manual,2.9,"5,670",Chennai
+Hyundai,Xcent S,2016,Petrol,"1,22",Automatic,4.51,"10,032",Chennai
+Hyundai,NEW SANTRO,2019,Petrol,"68,082",Manual,3.95,"7,722",Chennai
+Hyundai,Xcent SX,2016,Petrol,"72,170",Manual,4.42,"8,641",Chennai
+Hyundai,VENUE SX,2020,Petrol,"65,341",Manual,8.79,"16,731",Chennai
+Hyundai,i10 SPORTZ,2012,Petrol,"98,825",Manual,2.86,"9,499",Chennai
+Hyundai,Xcent SX,2016,Petrol,"56,333",Manual,5.2,"10,166",Chennai
+Hyundai,i20 SPORTZ,2013,Diesel,"1,20",Manual,3.86,"12,811",Chennai
+Hyundai,i20 MAGNA,2012,Diesel,"1,22",Manual,3.02,"14,216",Chennai
+Hyundai,Elite i20,2014,Petrol,"80,713",Manual,4.93,"10,967",Chennai
+Hyundai,Grand i10,2017,Petrol,"47,792",Automatic,5.6,"10,948",Pune
+Hyundai,Eon ERA,2015,Petrol,"36,067",Manual,2.71,"5,288",Pune
+Hyundai,Elite i20,2017,Diesel,"52,877",Manual,7.18,"14,037",Pune
+Hyundai,i10 ASTA,2010,Petrol,"37,893",Manual,2.22,"19,724",Pune
+Hyundai,i10 MAGNA,2010,Petrol,"66,139",Manual,2.03,"18,036",Pune
+Hyundai,Elite i20,2017,Petrol,"50,915",Manual,5.25,"10,264",Pune
+Hyundai,Grand i10,2015,Petrol,"25,182",Manual,3.5,"6,843",Pune
+Hyundai,Grand i10,2015,Petrol,"36,285",Manual,3.76,"7,351",Pune
+Hyundai,Elite i20,2016,Petrol,"65,395",Manual,5.2,"10,166",Pune
+Hyundai,Elite i20,2014,CNG,"1,01",,4.05,"13,452",Pune
+Hyundai,Creta SX,2019,Diesel,"94,329",Automatic,10.76,"20,471",Pune
+Hyundai,Verna 1,2018,Diesel,"1,01",Manual,9.17,"19,938",Pune
+Hyundai,GRAND I10,2020,CNG,"62,345",,6.98,"13,646",Pune
+Hyundai,Verna SX,2022,Petrol,"13,694",Manual,12.92,"24,592",Pune
+Hyundai,Creta E,2018,Petrol,"62,518",Manual,7.97,"15,582",Pune
+Hyundai,Creta SX,2016,Petrol,"1,00",Manual,7.86,"17,484",Pune
+Hyundai,Creta SX,2019,Petrol,"18,871",Manual,10.67,"20,309",Pune
+Hyundai,Elite i20,2016,Petrol,"1,19",Manual,4.46,"9,917",Pune
+Hyundai,Eon SPORTZ,2016,Petrol,"21,953",Manual,3.25,"6,354",Pune
+Hyundai,i10 MAGNA,2010,Petrol,"99,122",Manual,1.85,"16,437",Pune
+Hyundai,NEW I20,2021,Petrol,"26,849",Manual,7.27,"14,213",Noida
+Hyundai,Grand i10,2017,Petrol,"26,617",Manual,4.66,"9,110",Noida
+Hyundai,i20 MAGNA,2011,Petrol,"32,646",Manual,1.83,"8,614",Noida
+Hyundai,Verna 1,2019,Petrol,"42,303",Manual,7.85,"15,347",Noida
+Hyundai,Elite i20,2017,Petrol,"56,774",Manual,4.97,"9,716",Noida
+Hyundai,NEW SANTRO,2022,Petrol,"11,884",Manual,5.08,"9,931",Noida
+Hyundai,Creta SX,2020,Petrol,"24,955",Automatic,16.77,"31,920",Noida
+Hyundai,VENUE SX,2019,Petrol,"29,044",Automatic,8.87,"16,883",Noida
+Hyundai,VENUE SX,2022,Petrol,"23,070",Manual,10.01,"19,053",Noida
+Hyundai,i20 Active,2015,Petrol,"50,983",Manual,4.77,"9,325",Noida
+Hyundai,Creta SX,2017,Petrol,"72,555",Automatic,8.52,"16,217",Noida
+Hyundai,Elite i20,2019,Petrol,"42,911",Manual,6.6,"12,903",Noida
+Hyundai,Verna 1,2019,Petrol,"84,648",Manual,7.29,"14,252",Noida
+Hyundai,Grand i10,2017,Petrol,"86,986",Manual,3.98,"7,781",Noida
+Hyundai,Verna 1,2018,Petrol,"52,146",Manual,7.58,"14,819",Noida
+Hyundai,VENUE SX,2019,Petrol,"38,530",Automatic,8.43,"16,046",Noida
+Hyundai,VENUE SX,2022,Diesel,"34,255",Manual,10.36,"19,719",Noida
+Hyundai,Grand i10,2017,Petrol,"89,733",Automatic,4.99,"9,756",Noida
+Hyundai,Verna FLUIDIC,2011,Petrol,"49,908",Manual,3.01,"14,169",Noida
+Hyundai,Creta SX,2017,Petrol,"35,540",Manual,7.62,"14,897",Noida
+Hyundai,Verna FLUIDIC,2015,Petrol,"30,729",Manual,4.12,"8,055",Kolkatta
+Hyundai,Creta S,2016,Diesel,"77,134",Manual,6.99,"13,666",Kolkatta
+Hyundai,New Elantra,2016,Petrol,"74,312",Manual,6.7,"13,099",Kolkatta
+Hyundai,AURA SX,2020,Petrol,"14,593",Manual,6.95,"13,587",Kolkatta
+Hyundai,Verna 1,2015,Diesel,"47,081",Manual,4.17,"9,276",Kolkatta
+Hyundai,Grand i10,2017,Petrol,"28,756",Manual,3.24,"6,334",Kolkatta
+Hyundai,Creta E,2019,Petrol,"49,869",Manual,6.94,"13,568",Kolkatta
+Hyundai,VENUE SX,2022,Diesel,"66,731",Manual,9.39,"17,873",Kolkatta
+Hyundai,Verna 1,2019,Petrol,"26,288",Manual,7.36,"14,389",Kolkatta
+Hyundai,Xcent S,2016,Petrol,"55,314",Manual,3.45,"6,745",Kolkatta
+Hyundai,Elite i20,2016,Petrol,"81,106",Manual,4.51,"8,817",Kolkatta
+Hyundai,Grand i10,2015,Petrol,"35,110",Manual,3.23,"6,315",Kolkatta
+Hyundai,Creta SX,2020,Petrol,"36,215",Manual,10.33,"19,662",Kolkatta
+Hyundai,AURA E,2021,Petrol,"22,974",Manual,5.05,"9,873",Kolkatta
+Hyundai,Elite i20,2016,Petrol,"40,821",Manual,5.15,"10,068",Kolkatta
+Hyundai,Grand i10,2019,Petrol,"36,145",Manual,4.25,"8,309",Kolkatta
+Hyundai,Verna 1,2017,Petrol,"31,105",Manual,6.19,"12,096",Kolkatta
+Hyundai,VENUE SX,2023,Petrol,"4,620",Manual,10.71,"20,385",Kolkatta
+Hyundai,NEW I20,2021,Petrol,"18,805",Automatic,9.03,"17,188",Kolkatta
+Hyundai,NEW I20,2023,Petrol,"6,286",Manual,8.87,"16,883",Kolkatta
+Honda,WR,2017,Diesel,"85,785",Manual,7.31,"14,291",Hyderabad
+Honda,City,2012,Petrol,"85,556",Manual,4.29,"14,249",Hyderabad
+Honda,WR,2019,Petrol,"32,139",Manual,8.06,"15,341",Hyderabad
+Honda,WR,2017,Diesel,"93,129",Manual,7.18,"14,037",Hyderabad
+Honda,Brio,2012,Petrol,"87,778",Manual,2.9,"9,632",Hyderabad
+Honda,Amaze,2018,Diesel,"87,964",Manual,6.61,"12,923",Hyderabad
+Honda,Civic,2019,Petrol,"51,426",Automatic,15.44,"29,389",Hyderabad
+Honda,Brio,2012,Petrol,"90,741",Manual,2.68,"8,901",Hyderabad
+Honda,Civic,2019,Petrol,"87,136",Automatic,16.08,"30,607",Hyderabad
+Honda,WR,2018,Petrol,"59,643",Manual,6.49,"12,688",Hyderabad
+Honda,Brio,2012,Petrol,"90,437",Manual,2.59,"8,603",Hyderabad
+Honda,City,2017,Petrol,"91,468",Automatic,6.91,"13,509",Hyderabad
+Honda,City,2018,Diesel,"75,410",Manual,7.91,"15,464",Hyderabad
+Honda,City,2021,Petrol,"59,792",Automatic,10.54,"20,062",Hyderabad
+Honda,Jazz,2017,Petrol,"84,952",Manual,4.94,"9,658",Hyderabad
+Honda,City,2014,Petrol,"98,877",Manual,5.34,"11,879",Hyderabad
+Honda,Jazz,2017,Petrol,"40,373",Automatic,5.96,"11,652",Hyderabad
+Honda,Amaze,2019,Diesel,"83,357",Automatic,6.89,"13,470",Hyderabad
+Honda,Amaze,2020,Petrol,"35,346",Automatic,8.11,"15,437",Hyderabad
+Honda,Brio,2018,Petrol,"90,872",Manual,3.94,"7,703",Hyderabad
+Honda,WR,2020,Petrol,"46,690",Manual,8.1,"15,418",Bangalore
+Honda,Civic,2019,Petrol,"28,069",Automatic,18.65,"35,499",Bangalore
+Honda,City,2017,Petrol,"64,556",Manual,7.17,"14,017",Bangalore
+Honda,BR,2016,Petrol,"83,399",Automatic,8.02,"15,265",Bangalore
+Honda,City,2014,Petrol,"85,512",Manual,5.01,"11,144",Bangalore
+Honda,WR,2018,Diesel,"1,17",Manual,7.23,"16,083",Bangalore
+Honda,WR,2020,Petrol,"33,856",Manual,8.09,"15,399",Bangalore
+Honda,City,2017,Petrol,"73,042",Manual,7.43,"14,526",Bangalore
+Honda,City,2016,Petrol,"1,09",Automatic,5.73,"12,746",Bangalore
+Honda,City,2016,Petrol,"38,176",Automatic,7.02,"13,724",Bangalore
+Honda,City,2012,Petrol,"98,099",Manual,3.89,"12,930",Bangalore
+Honda,City,2012,Petrol,"1,16",Manual,4.35,"14,448",Bangalore
+Honda,City,2015,Petrol,"82,528",Automatic,6.9,"13,490",Bangalore
+Honda,City,2012,Petrol,"87,836",Manual,4.89,"16,242",Bangalore
+Honda,Amaze,2019,Petrol,"22,419",Manual,7.02,"13,724",Bangalore
+Honda,Amaze,2018,Diesel,"1,33",Manual,5.69,"12,657",Bangalore
+Honda,City,2015,Petrol,"37,346",Automatic,6.29,"12,297",Bangalore
+Honda,Civic,2019,Petrol,"20,315",Automatic,20.38,"38,791",Bangalore
+Honda,City,2016,Petrol,"50,959",Automatic,7.39,"14,448",Bangalore
+Honda,City,2017,Petrol,"62,748",Automatic,6.87,"13,431",Bangalore
+Honda,WR,2017,Petrol,"27,679",Manual,6.29,"12,297",Mumbai
+Honda,WR,2018,Petrol,"59,897",Manual,7.11,"13,900",Mumbai
+Honda,City,2019,Petrol,"54,705",Automatic,9.58,"18,235",Mumbai
+Honda,City,2014,Petrol,"61,455",Manual,4.86,"10,811",Mumbai
+Honda,City,2015,Petrol,"79,021",Manual,4.74,"9,267",Mumbai
+Honda,WR,2017,Petrol,"87,905",Manual,6.14,"12,004",Mumbai
+Honda,City,2012,Petrol,"69,461",Manual,3.3,"10,961",Mumbai
+Honda,City,2015,Petrol,"73,939",Manual,4.93,"9,638",Mumbai
+Honda,City,2012,Petrol,"66,864",Manual,3.06,"10,164",Mumbai
+Honda,City,2017,Petrol,"76,238",Manual,6.88,"13,451",Mumbai
+Honda,Amaze,2021,Petrol,"15,721",Manual,6.22,"12,170",Mumbai
+Honda,Amaze,2018,Petrol,"69,492",Automatic,5.98,"11,691",Mumbai
+Honda,City,2015,Petrol,"41,887",Manual,5.47,"10,694",Mumbai
+Honda,City,2014,Petrol,"62,816",Manual,4.57,"10,166",Mumbai
+Honda,BR,2016,Petrol,"51,790",Manual,6.52,"12,747",Mumbai
+Honda,Jazz,2015,Petrol,"38,020",Automatic,5.07,"9,912",Mumbai
+Honda,City,2012,Petrol,"62,671",Manual,3.29,"10,928",Mumbai
+Honda,City,2016,Petrol,"48,949",Manual,5.47,"10,694",Mumbai
+Honda,City,2018,Petrol,"31,939",Manual,8.98,"17,093",Mumbai
+Honda,Jazz,2018,Petrol,"26,068",Manual,4.89,"9,560",Mumbai
+Honda,City,2017,Petrol,"16,082",Manual,6.83,"13,353",Delhi
+Honda,Amaze,2019,Petrol,"39,901",Manual,5.53,"10,811",Delhi
+Honda,Amaze,2019,Petrol,"37,849",Manual,5.7,"11,144",Delhi
+Honda,City,2021,Petrol,"28,155",Manual,11.55,"21,984",Delhi
+Honda,Brio,2015,Petrol,"86,813",Manual,2.77,"5,415",Delhi
+Honda,Amaze,2013,Petrol,"1,07",Manual,2.87,"7,558",Delhi
+Honda,Amaze,2020,Petrol,"47,733",Manual,5.37,"10,498",Delhi
+Honda,WR,2017,CNG,"65,973",,5.18,"10,127",Delhi
+Honda,Amaze,2018,Petrol,"51,234",Manual,4.82,"9,423",Delhi
+Honda,City,2015,Petrol,"64,803",Automatic,5.46,"10,674",Delhi
+Honda,Amaze,2017,Petrol,"77,979",Manual,4.35,"8,504",Delhi
+Honda,City,2013,Petrol,"1,24",Manual,3.94,"10,368",Delhi
+Honda,Brio,2013,Petrol,"40,342",Manual,2.26,"5,951",Delhi
+Honda,WR,2018,Petrol,"41,090",Manual,6.98,"13,646",Delhi
+Honda,WR,2017,Petrol,"25,679",Manual,6.64,"12,981",Delhi
+Honda,City,2022,Petrol,"16,294",Automatic,11.85,"22,555",Delhi
+Honda,Amaze,2015,Petrol,"80,969",Manual,3.46,"6,764",Delhi
+Honda,Amaze,2023,Petrol,"8,272",Automatic,8.93,"16,989",Delhi
+Honda,City,2019,Petrol,"31,383",Automatic,9.29,"17,683",Delhi
+Honda,WR,2017,Petrol,"20,190",Manual,6.87,"13,431",Delhi
+Honda,Amaze,2014,Petrol,"69,500",Manual,3.97,"8,831",Ahmedabad
+Honda,Jazz,2015,Petrol,"24,796",Manual,5.39,"10,538",Ahmedabad
+Honda,WR,2019,Petrol,"27,488",Manual,6.43,"12,566",Ahmedabad
+Honda,City,2020,Petrol,"34,860",Automatic,10.1,"19,224",Ahmedabad
+Honda,WR,2017,Diesel,"1,09",Manual,4.64,"10,321",Ahmedabad
+Honda,Amaze,2019,Petrol,"73,649",Manual,5.18,"10,127",Ahmedabad
+Honda,Amaze,2019,Petrol,"67,782",Manual,5.71,"11,163",Ahmedabad
+Honda,Amaze,2015,Petrol,"77,720",Manual,4,"7,820",Ahmedabad
+Honda,Jazz,2021,Petrol,"22,474",Manual,7.4,"14,467",Ahmedabad
+Honda,City,2011,Petrol,"87,332",Manual,3.29,"15,487",Ahmedabad
+Honda,City,2014,Petrol,"78,363",Manual,4.88,"10,855",Ahmedabad
+Honda,Amaze,2015,Petrol,"94,923",Manual,3.92,"7,664",Ahmedabad
+Honda,Jazz,2016,Petrol,"1,09",Manual,3.66,"8,141",Ahmedabad
+Honda,City,2013,Petrol,"90,706",Manual,4.41,"11,613",Ahmedabad
+Honda,Brio,2014,Petrol,"34,445",Manual,3.72,"8,270",Ahmedabad
+Honda,Jazz,2017,Petrol,"78,399",Manual,4.6,"8,993",Ahmedabad
+Honda,Amaze,2021,Petrol,"37,738",Manual,7.1,"13,881",Ahmedabad
+Honda,WR,2017,Petrol,"1,04",Manual,6.14,"13,658",Ahmedabad
+Honda,Amaze,2016,Petrol,"89,438",Manual,4.74,"9,267",Ahmedabad
+Honda,Jazz,2022,Petrol,"5,581",Automatic,9.12,"17,351",Ahmedabad
+Honda,WR,2017,Petrol,"25,679",Manual,6.64,"12,981",Gurgaon
+Honda,City,2019,Petrol,"33,671",Manual,9,"17,131",Gurgaon
+Honda,City,2021,Petrol,"28,155",Manual,11.55,"21,984",Gurgaon
+Honda,Amaze,2019,Petrol,"39,901",Manual,5.53,"10,811",Gurgaon
+Honda,City,2020,Petrol,"45,296",Manual,10.75,"20,462",Gurgaon
+Honda,City,2020,Diesel,"48,952",Manual,11.12,"21,166",Gurgaon
+Honda,City,2019,Petrol,"31,383",Automatic,9.29,"17,683",Gurgaon
+Honda,WR,2017,CNG,"65,973",,5.18,"10,127",Gurgaon
+Honda,Amaze,2019,Petrol,"37,849",Manual,5.7,"11,144",Gurgaon
+Honda,Amaze,2019,Diesel,"43,683",Manual,6.19,"13,769",Gurgaon
+Honda,Amaze,2013,Petrol,"1,07",Manual,2.87,"7,558",Gurgaon
+Honda,Amaze,2019,Diesel,"55,414",Automatic,7.47,"16,617",Gurgaon
+Honda,Amaze,2023,Petrol,"8,272",Automatic,8.93,"16,989",Gurgaon
+Honda,Amaze,2018,Petrol,"51,234",Manual,4.82,"9,423",Gurgaon
+Honda,Brio,2015,Petrol,"86,813",Manual,2.77,"5,415",Gurgaon
+Honda,Brio,2013,Petrol,"40,342",Manual,2.26,"5,951",Gurgaon
+Honda,City,2010,Petrol,"64,115",Automatic,2.25,"19,991",Gurgaon
+Honda,City,2013,Petrol,"1,24",Manual,3.94,"10,368",Gurgaon
+Honda,BR,2018,Diesel,"1,16",Manual,7.31,"19,240",Gurgaon
+Honda,WR,2017,Petrol,"37,935",Manual,6.78,"13,255",Gurgaon
+Honda,City,2017,Petrol,"98,074",Automatic,8.38,"15,951",Chennai
+Honda,City,2014,Petrol,"63,962",Automatic,5.59,"12,435",Chennai
+Honda,Civic,2019,Petrol,"59,404",Automatic,13.08,"24,897",Chennai
+Honda,City,2016,Petrol,"1,15",Manual,5.14,"11,434",Chennai
+Honda,Jazz,2017,Petrol,"85,950",Manual,5.39,"10,538",Chennai
+Honda,WR,2017,Diesel,"20,165",Manual,8.34,"15,874",Chennai
+Honda,WR,2019,Petrol,"53,799",Manual,6.85,"13,392",Chennai
+Honda,City,2013,Petrol,"83,714",Manual,4.77,"12,561",Chennai
+Honda,Jazz,2017,Petrol,"1,01",Manual,5.25,"11,678",Chennai
+Honda,WR,2017,Petrol,"42,492",Manual,6.61,"12,923",Chennai
+Honda,City,2016,Petrol,"1,01",Manual,5.18,"11,523",Chennai
+Honda,City,2015,Diesel,"93,808",Manual,5.94,"13,213",Chennai
+Honda,WR,2017,Petrol,"79,390",Manual,6.25,"12,219",Chennai
+Honda,Jazz,2016,Petrol,"55,386",Manual,5.29,"10,342",Chennai
+Honda,Jazz,2017,Petrol,"71,037",Automatic,5.44,"10,635",Chennai
+Honda,City,2017,Petrol,"1,15",Manual,6.79,"15,104",Chennai
+Honda,City,2017,Petrol,"61,419",Manual,6.39,"12,493",Chennai
+Honda,Amaze,2014,Petrol,"42,698",Manual,4.45,"9,899",Chennai
+Honda,Amaze,2018,Petrol,"83,858",Manual,6.18,"12,082",Chennai
+Honda,Amaze,2018,Petrol,"72,135",Manual,5.29,"10,342",Chennai
+Honda,City,2014,Petrol,"43,715",Manual,5.87,"13,057",Pune
+Honda,City,2016,Petrol,"75,157",Manual,4.81,"9,404",Pune
+Honda,City,2012,Petrol,"91,243",Manual,2.98,"9,898",Pune
+Honda,Jazz,2017,Petrol,"97,725",Automatic,4.89,"9,560",Pune
+Honda,WR,2017,Diesel,"81,682",Manual,5.74,"11,222",Pune
+Honda,Brio,2012,Petrol,"83,048",Manual,2.1,"6,975",Pune
+Honda,City,2013,Petrol,"80,543",Automatic,4.08,"10,744",Pune
+Honda,City,2021,Petrol,"27,021",Automatic,13.49,"25,677",Pune
+Honda,City,2017,Petrol,"60,356",Manual,6.04,"11,808",Pune
+Honda,City,2018,Petrol,"36,721",Automatic,8.83,"16,807",Pune
+Honda,Amaze,2018,Petrol,"19,994",Manual,5.92,"11,574",Pune
+Honda,City,2021,Petrol,"44,260",Manual,11.13,"21,185",Pune
+Honda,City,2015,Petrol,"92,115",Manual,5.36,"10,479",Pune
+Honda,Jazz,2018,Petrol,"30,175",Manual,5.34,"10,440",Pune
+Honda,City,2020,Petrol,"45,072",Manual,9.77,"18,596",Pune
+Honda,City,2015,Petrol,"77,141",Manual,5.4,"10,557",Pune
+Honda,City,2014,Petrol,"61,858",Manual,5.26,"11,701",Pune
+Honda,City,2021,Petrol,"16,304",Manual,10.27,"19,548",Pune
+Honda,City,2018,Petrol,"40,249",Automatic,9.34,"17,786",Pune
+Honda,Jazz,2019,Petrol,"43,500",Automatic,6.92,"13,533",Pune
+Honda,City,2015,Petrol,"64,803",Automatic,5.46,"10,674",Noida
+Honda,Amaze,2018,Diesel,"1,16",Manual,3.97,"10,455",Noida
+Honda,Amaze,2018,Petrol,"49,061",Manual,5.15,"10,068",Noida
+Honda,City,2016,Petrol,"43,062",Manual,6.53,"12,766",Noida
+Honda,Brio,2015,CNG,"59,317",,2.89,"7,610",Noida
+Honda,Amaze,2015,Petrol,"44,063",Manual,3.62,"7,077",Noida
+Honda,City,2017,Petrol,"88,127",Manual,7.17,"14,017",Noida
+Honda,BR,2019,Petrol,"63,810",Manual,8.17,"15,551",Noida
+Honda,City,2022,Petrol,"16,294",Automatic,11.85,"22,555",Noida
+Honda,City,2011,Petrol,"67,942",Manual,2.5,"11,768",Noida
+Honda,City,2011,Petrol,"54,494",Manual,2.54,"11,957",Noida
+Honda,City,2015,Petrol,"55,301",Automatic,6.22,"12,160",Noida
+Honda,Amaze,2021,Petrol,"43,188",Automatic,7.03,"13,744",Noida
+Honda,City,2015,Petrol,"65,113",Manual,5.31,"10,381",Noida
+Honda,Amaze,2015,Petrol,"80,969",Manual,3.46,"6,764",Noida
+Honda,City,2012,CNG,"45,921",,3.67,"32,608",Noida
+Honda,Amaze,2016,Petrol,"99,399",Manual,3.98,"7,781",Noida
+Honda,City,2014,Petrol,"94,089",Automatic,5.11,"11,367",Noida
+Honda,City,2015,Petrol,"41,122",Manual,5.54,"10,831",Noida
+Honda,City,2015,Petrol,"57,377",Manual,5.75,"11,241",Noida
+Honda,Amaze,2022,Petrol,"8,358",Manual,7.28,"14,233",Kolkatta
+Honda,Brio,2014,Petrol,"48,756",Manual,2.38,"5,294",Kolkatta
+Honda,Jazz,2016,Petrol,"80,057",Manual,3.74,"7,312",Kolkatta
+Honda,City,2018,Petrol,"97,154",Manual,5,"9,775",Kolkatta
+Honda,City,2015,Petrol,"29,527",Manual,4.04,"7,898",Kolkatta
+Honda,City,2017,Petrol,"18,139",Manual,6.53,"12,766",Kolkatta
+Honda,City,2021,Petrol,"19,885",Manual,9.1,"17,321",Kolkatta
+Honda,BR,2017,Petrol,"72,768",Manual,6.27,"12,258",Kolkatta
+Honda,City,2017,Petrol,"50,440",Manual,5.44,"10,635",Kolkatta
+Honda,WR,2019,Petrol,"20,314",Manual,6.21,"12,141",Kolkatta
+Honda,WR,2018,Petrol,"42,018",Manual,6.12,"11,965",Kolkatta
+Honda,City,2020,Petrol,"53,369",Automatic,10.28,"19,563",Kolkatta
+Honda,Jazz,2018,Petrol,"31,030",Automatic,5.66,"11,073",Kolkatta
+Honda,City,2014,Diesel,"54,674",Manual,4.01,"10,560",Kolkatta
+Honda,City,2019,Petrol,"20,701",Manual,8.53,"16,236",Kolkatta
+Honda,City,2019,Petrol,"46,791",Manual,7.69,"15,034",Kolkatta
+Honda,Jazz,2018,Petrol,"35,374",Manual,5.06,"9,892",Kolkatta
+Honda,Amaze,2018,Petrol,"20,105",Manual,5.75,"11,241",Kolkatta
+Honda,Brio,2014,Petrol,"16,047",Manual,2.92,"6,495",Kolkatta
+Honda,WR,2017,Petrol,"26,947",Manual,5.62,"10,981",Kolkatta
+Renault,Kwid,2017,Petrol,"44,726",Automatic,3.47,"6,784",Hyderabad
+Renault,Kwid,2016,Petrol,"65,200",Manual,2.68,"5,239",Hyderabad
+Renault,Duster,2013,Diesel,"92,988",Manual,3.79,"12,588",Hyderabad
+Renault,Kwid,2017,Petrol,"76,863",Manual,3.01,"5,885",Hyderabad
+Renault,Kwid,2018,Petrol,"28,660",Manual,3.21,"6,276",Hyderabad
+Renault,Kwid,2018,Petrol,"87,072",Automatic,3.89,"7,605",Hyderabad
+Renault,Kwid,2017,Petrol,"38,185",Automatic,3.42,"6,686",Hyderabad
+Renault,Duster,2020,Petrol,"30,635",Manual,7.84,"15,327",Hyderabad
+Renault,Kwid,2022,Petrol,"13,314",Manual,4.87,"9,521",Hyderabad
+Renault,TRIBER,2022,Petrol,"37,502",Automatic,7.6,"14,858",Hyderabad
+Renault,Kwid,2022,Petrol,"17,430",Manual,4.23,"8,270",Hyderabad
+Renault,Kwid,2020,Petrol,"9,676",Automatic,4.89,"9,560",Hyderabad
+Renault,Kwid,2020,Petrol,"66,696",Manual,3.84,"7,507",Hyderabad
+Renault,Kwid,2019,Petrol,"39,595",Automatic,4.14,"8,094",Hyderabad
+Renault,Kwid,2022,Petrol,"18,233",Manual,4.83,"9,447",Hyderabad
+Renault,Duster,2020,Petrol,"1,05",Manual,8.92,"19,394",Hyderabad
+Renault,Kwid,2020,Petrol,"52,039",Automatic,4.37,"8,543",Hyderabad
+Renault,Kwid,2018,Petrol,"27,823",Automatic,4.09,"7,996",Hyderabad
+Renault,Duster,2019,Diesel,"66,972",Automatic,8.54,"16,255",Hyderabad
+Renault,Duster,2020,Petrol,"68,481",Automatic,10.17,"19,358",Hyderabad
+Renault,Duster,2014,Diesel,"69,898",Manual,6.14,"16,169",Bangalore
+Renault,Kwid,2020,Petrol,"29,526",Manual,4.54,"8,876",Bangalore
+Renault,Duster,2014,Diesel,"97,662",Manual,5.62,"14,800",Bangalore
+Renault,Kwid,2016,Petrol,"47,443",Manual,2.95,"5,767",Bangalore
+Renault,TRIBER,2019,Petrol,"57,464",Manual,6.1,"11,926",Bangalore
+Renault,Duster,2013,Diesel,"88,147",Manual,4.59,"15,245",Bangalore
+Renault,Kwid,2018,Petrol,"35,966",Manual,3.22,"6,295",Bangalore
+Renault,Kiger,2022,Petrol,"23,775",Manual,6.93,"13,548",Bangalore
+Renault,Kwid,2018,Petrol,"1,24",Manual,2.92,"6,484",Bangalore
+Renault,Kwid,2016,Petrol,"1,06",Manual,2.54,"5,650",Bangalore
+Renault,TRIBER,2020,Petrol,"35,186",Manual,5.74,"11,219",Bangalore
+Renault,Kwid,2017,Petrol,"84,230",Manual,2.94,"5,748",Bangalore
+Renault,Kiger,2021,Petrol,"16,475",Manual,7.75,"15,151",Bangalore
+Renault,Duster,2016,Petrol,"73,216",Manual,6.16,"12,037",Bangalore
+Renault,Kwid,2018,Petrol,"90,684",Manual,3.3,"6,452",Bangalore
+Renault,Duster,2014,Diesel,"59,617",Manual,6.15,"16,195",Bangalore
+Renault,Kwid,2016,Petrol,"64,801",Manual,3.12,"6,100",Bangalore
+Renault,Duster,2014,Diesel,"94,424",Manual,5.95,"15,669",Bangalore
+Renault,Duster,2021,Petrol,"11,389",Manual,9.18,"17,473",Bangalore
+Renault,Kwid,2018,Petrol,"44,721",Manual,3.28,"6,412",Bangalore
+Renault,Kwid,2018,Petrol,"19,436",Automatic,3.89,"7,605",Mumbai
+Renault,Duster,2013,Diesel,"1,22",Manual,3.63,"12,057",Mumbai
+Renault,Kwid,2019,Petrol,"18,550",Manual,3.51,"6,862",Mumbai
+Renault,Duster,2018,Petrol,"25,066",Automatic,5.54,"10,828",Mumbai
+Renault,Kwid,2015,Petrol,"16,753",Manual,2.43,"4,756",Mumbai
+Renault,Kwid,2019,Petrol,"33,677",Automatic,3.49,"6,823",Mumbai
+Renault,Kwid,2016,Petrol,"18,939",Manual,2.69,"5,259",Mumbai
+Renault,Kwid,2016,Petrol,"49,178",Manual,3.04,"5,943",Mumbai
+Renault,Kwid,2017,Petrol,"16,343",Automatic,3.39,"6,628",Mumbai
+Renault,Kwid,2019,Petrol,"22,032",Manual,3.48,"6,803",Mumbai
+Renault,Kwid,2019,Petrol,"34,838",Automatic,3.75,"7,331",Mumbai
+Renault,Kwid,2016,Petrol,"26,605",Manual,2.96,"5,787",Mumbai
+Renault,Kwid,2016,Petrol,"47,516",Manual,2.75,"5,376",Mumbai
+Renault,Kwid,2020,Petrol,"13,976",Automatic,4.76,"9,306",Mumbai
+Renault,Duster,2013,Diesel,"59,225",Manual,4.06,"13,485",Mumbai
+Renault,Kwid,2022,Petrol,"4,744",Manual,4.54,"8,876",Mumbai
+Renault,Kwid,2019,Petrol,"79,343",Automatic,4.04,"7,898",Mumbai
+Renault,TRIBER,2022,Petrol,"4,266",Automatic,7.22,"14,115",Mumbai
+Renault,Kwid,2022,Petrol,"7,836",Manual,4.89,"9,560",Mumbai
+Renault,TRIBER,2019,Petrol,"56,210",Manual,6.7,"13,099",Mumbai
+Renault,Kwid,2022,Petrol,"26,176",Manual,4.93,"9,638",Delhi
+Renault,Kwid,2021,Petrol,"10,879",Manual,4.32,"8,446",Delhi
+Renault,Kwid,2020,Petrol,"50,464",Manual,3.97,"7,761",Delhi
+Renault,Kwid,2017,Petrol,"41,247",Automatic,3.18,"6,217",Delhi
+Renault,Kwid,2018,Petrol,"75,805",Automatic,3.35,"6,549",Delhi
+Renault,Kwid,2021,Petrol,"27,838",Automatic,4.75,"9,286",Delhi
+Renault,Kwid,2019,Petrol,"14,588",Automatic,4.18,"8,172",Delhi
+Renault,Duster,2015,Petrol,"49,118",Manual,4.35,"8,504",Delhi
+Renault,Kwid,2021,Petrol,"24,475",Manual,3.79,"7,410",Delhi
+Renault,Kwid,2021,CNG,"46,746",,3.92,"7,664",Delhi
+Renault,Duster,2015,Petrol,"67,850",Manual,4.52,"8,837",Delhi
+Renault,Kwid,2019,Petrol,"50,023",Manual,3.72,"7,273",Delhi
+Renault,Kwid,2019,Petrol,"66,768",Manual,3.92,"7,664",Delhi
+Renault,Kiger,2021,Petrol,"45,459",Manual,6.57,"12,844",Delhi
+Renault,Kwid,2020,Petrol,"17,912",Automatic,4.22,"8,250",Delhi
+Renault,Duster,2021,Petrol,"50,108",Manual,10.06,"19,148",Delhi
+Renault,Kwid,2020,Petrol,"26,154",Manual,3.91,"7,644",Delhi
+Renault,Kwid,2018,Petrol,"88,670",Manual,3.31,"6,471",Delhi
+Renault,Kiger,2021,Petrol,"12,944",Automatic,8.32,"15,836",Delhi
+Renault,Duster,2019,Diesel,"60,851",Manual,7.58,"16,861",Delhi
+Renault,Kwid,2021,Petrol,"20,267",Manual,4.71,"9,208",Ahmedabad
+Renault,Kwid,2020,Petrol,"52,872",Manual,3.46,"6,764",Ahmedabad
+Renault,TRIBER,2019,Petrol,"53,467",Manual,5.76,"11,257",Ahmedabad
+Renault,Duster,2018,Petrol,"39,708",Automatic,6.25,"12,219",Ahmedabad
+Renault,TRIBER,2021,Petrol,"26,313",Automatic,7.15,"13,978",Ahmedabad
+Renault,Kwid,2018,Petrol,"52,226",Manual,3.31,"6,471",Ahmedabad
+Renault,TRIBER,2019,Petrol,"34,280",Manual,5.29,"10,342",Ahmedabad
+Renault,Kwid,2017,Petrol,"41,247",Automatic,3.18,"6,217",Gurgaon
+Renault,Kwid,2021,CNG,"46,746",,3.92,"7,664",Gurgaon
+Renault,Kwid,2019,Petrol,"14,588",Automatic,4.18,"8,172",Gurgaon
+Renault,Kwid,2021,Petrol,"10,879",Manual,4.32,"8,446",Gurgaon
+Renault,Kwid,2021,Petrol,"24,475",Manual,3.79,"7,410",Gurgaon
+Renault,Kwid,2022,Petrol,"26,176",Manual,4.93,"9,638",Gurgaon
+Renault,Kwid,2020,Petrol,"26,154",Manual,3.91,"7,644",Gurgaon
+Renault,Duster,2019,Diesel,"60,851",Manual,7.58,"16,861",Gurgaon
+Renault,TRIBER,2021,Petrol,"20,262",Automatic,7.44,"14,545",Gurgaon
+Renault,Kiger,2021,Petrol,"45,459",Manual,6.57,"12,844",Gurgaon
+Renault,Kwid,2021,Petrol,"27,838",Automatic,4.75,"9,286",Gurgaon
+Renault,Kwid,2020,Petrol,"50,464",Manual,3.97,"7,761",Gurgaon
+Renault,TRIBER,2021,Petrol,"42,964",Manual,5.33,"10,420",Gurgaon
+Renault,Duster,2021,Petrol,"50,108",Manual,10.06,"19,148",Gurgaon
+Renault,Kwid,2023,Petrol,"2,260",Automatic,5.64,"11,026",Gurgaon
+Renault,Kwid,2020,Petrol,"17,912",Automatic,4.22,"8,250",Gurgaon
+Renault,TRIBER,2021,Petrol,"24,190",Automatic,8.04,"15,303",Gurgaon
+Renault,Duster,2015,Petrol,"49,118",Manual,4.35,"8,504",Gurgaon
+Renault,Kiger,2021,Petrol,"30,195",Automatic,7.9,"15,445",Gurgaon
+Renault,Duster,2015,Petrol,"67,850",Manual,4.52,"8,837",Gurgaon
+Renault,TRIBER,2022,Petrol,"15,540",Manual,7.09,"13,861",Chennai
+Renault,Kwid,2017,Petrol,"95,893",Automatic,3.37,"6,588",Chennai
+Renault,Kwid,2016,Petrol,"32,727",Manual,3.24,"6,334",Chennai
+Renault,Kwid,2022,Petrol,"35,167",Manual,4.26,"8,328",Chennai
+Renault,TRIBER,2020,Petrol,"32,197",Automatic,6.55,"12,805",Chennai
+Renault,Kwid,2016,Petrol,"58,303",Manual,3.16,"6,178",Chennai
+Renault,TRIBER,2021,Petrol,"44,120",Automatic,7.26,"14,193",Chennai
+Renault,Kwid,2016,Petrol,"54,779",Manual,3.09,"6,041",Chennai
+Renault,Kwid,2021,Petrol,"35,046",Manual,4.08,"7,976",Chennai
+Renault,Kwid,2022,Petrol,"15,268",Manual,4.25,"8,309",Chennai
+Renault,TRIBER,2021,Petrol,"21,003",Manual,6.16,"12,043",Chennai
+Renault,TRIBER,2020,Petrol,"21,576",Manual,6.72,"13,138",Chennai
+Renault,TRIBER,2020,Petrol,"55,731",Manual,5.62,"10,987",Chennai
+Renault,TRIBER,2021,Petrol,"60,402",Manual,5.82,"11,378",Chennai
+Renault,Kwid,2016,Petrol,"57,692",Manual,3.08,"6,021",Chennai
+Renault,Kwid,2022,Petrol,"14,509",Manual,4.09,"7,988",Chennai
+Renault,Kwid,2019,Petrol,"55,609",Manual,3.8,"7,429",Chennai
+Renault,Kiger,2022,Petrol,"10,910",Manual,7.59,"14,839",Chennai
+Renault,Kwid,2021,Petrol,"25,994",Manual,4.29,"8,383",Chennai
+Renault,Kiger,2022,Petrol,"17,878",Manual,7.85,"15,347",Chennai
+Renault,TRIBER,2020,Petrol,"47,702",Manual,5.61,"10,968",Pune
+Renault,Kwid,2021,Petrol,"39,526",Manual,4.4,"8,602",Pune
+Renault,Kwid,2020,Petrol,"6,299",Manual,4.59,"8,974",Pune
+Renault,Kwid,2022,Petrol,"17,625",Manual,4.89,"9,560",Pune
+Renault,Kwid,2020,Petrol,"11,687",Manual,4.64,"9,071",Pune
+Renault,Kwid,2017,Petrol,"33,543",Automatic,4.14,"8,103",Pune
+Renault,Kwid,2018,Petrol,"44,368",Automatic,3.92,"7,668",Pune
+Renault,Kwid,2022,Petrol,"4,316",Manual,4.56,"8,915",Pune
+Renault,TRIBER,2021,Petrol,"17,780",Automatic,6.63,"12,962",Pune
+Renault,TRIBER,2020,Petrol,"32,536",Automatic,5.46,"10,674",Pune
+Renault,TRIBER,2019,Petrol,"27,196",Manual,5.95,"11,632",Pune
+Renault,Kwid,2022,Petrol,"5,566",Manual,4.65,"9,091",Pune
+Renault,Kwid,2021,Petrol,"10,879",Manual,4.32,"8,446",Noida
+Renault,Duster,2015,Petrol,"67,850",Manual,4.52,"8,837",Noida
+Renault,Kwid,2020,Petrol,"17,912",Automatic,4.22,"8,250",Noida
+Renault,Kwid,2018,Petrol,"75,805",Automatic,3.35,"6,549",Noida
+Renault,Duster,2015,Petrol,"49,118",Manual,4.35,"8,504",Noida
+Renault,Kwid,2022,Petrol,"26,176",Manual,4.93,"9,638",Noida
+Renault,Kwid,2022,Petrol,"12,028",Automatic,5,"9,775",Noida
+Renault,Kwid,2020,Petrol,"12,183",Automatic,4.37,"8,551",Noida
+Renault,Kwid,2022,Petrol,"7,162",Manual,4.89,"9,560",Noida
+Renault,Duster,2019,Diesel,"40,838",Manual,8.21,"17,851",Noida
+Renault,Duster,2019,Petrol,"25,864",Automatic,8.29,"15,779",Noida
+Renault,Kwid,2021,CNG,"46,746",,3.92,"7,664",Noida
+Renault,Kwid,2020,Petrol,"50,464",Manual,3.97,"7,761",Noida
+Renault,Kwid,2021,Petrol,"24,475",Manual,3.79,"7,410",Noida
+Renault,Kwid,2022,Petrol,"15,260",Manual,4.79,"9,365",Noida
+Renault,Duster,2019,Diesel,"60,851",Manual,7.58,"16,861",Noida
+Renault,Kwid,2017,Petrol,"41,247",Automatic,3.18,"6,217",Noida
+Renault,Kwid,2020,Petrol,"26,154",Manual,3.91,"7,644",Noida
+Renault,Kwid,2022,Petrol,"16,209",Automatic,4.75,"9,286",Noida
+Renault,Kwid,2021,Petrol,"27,646",Automatic,4.68,"9,149",Noida
+Renault,Kwid,2020,Petrol,"13,648",Manual,3.87,"7,566",Kolkatta
+Renault,Kwid,2023,Petrol,"7,559",Manual,4.68,"9,149",Kolkatta
+Renault,Kwid,2021,Petrol,"7,204",Manual,4.1,"8,016",Kolkatta
+Renault,Captur,2018,Diesel,"68,232",Manual,5.96,"11,652",Kolkatta
+Renault,Duster,2017,Petrol,"42,775",Manual,4.35,"8,504",Kolkatta
+Renault,Kwid,2020,Petrol,"4,478",Manual,3.86,"7,546",Kolkatta
+Renault,Kwid,2020,Petrol,"11,451",Manual,3.57,"6,976",Kolkatta
+Renault,Kwid,2021,Petrol,"13,749",Manual,4.16,"8,127",Kolkatta
+Renault,Kwid,2021,Petrol,"23,214",Automatic,4.67,"9,130",Kolkatta
+Renault,TRIBER,2021,Petrol,"51,701",Automatic,6.67,"13,040",Kolkatta
+Renault,Duster,2018,Diesel,"72,363",Manual,7.09,"13,861",Kolkatta
+Renault,Kwid,2021,Petrol,"22,933",Manual,4.29,"8,387",Kolkatta
+Renault,Kwid,2023,Petrol,"4,678",Manual,4.88,"9,550",Kolkatta
+Renault,Kwid,2022,Petrol,"18,882",Manual,4,"7,830",Kolkatta
+Renault,Kwid,2020,Petrol,"4,141",Automatic,5.05,"9,873",Kolkatta
+Renault,Kwid,2019,Petrol,"20,080",Manual,4.12,"8,055",Kolkatta
+Renault,Kwid,2021,Petrol,"10,138",Automatic,4.73,"9,247",Kolkatta
+KIA,SELTOS,2022,Petrol,"33,860",Manual,12.17,"23,164",Hyderabad
+KIA,SONET,2022,Diesel,"39,641",Manual,11.65,"22,175",Hyderabad
+KIA,SELTOS,2021,Petrol,"31,348",Manual,11.12,"21,166",Hyderabad
+KIA,SONET,2021,Petrol,"38,579",Automatic,12.48,"23,755",Hyderabad
+KIA,SELTOS,2020,Petrol,"61,377",Manual,12.84,"24,440",Hyderabad
+KIA,SELTOS,2020,Petrol,"55,875",Automatic,14.04,"26,724",Hyderabad
+KIA,SONET,2023,Petrol,"2,095",Manual,13.26,"25,239",Hyderabad
+KIA,SELTOS,2020,Petrol,"63,787",Automatic,14.82,"28,209",Hyderabad
+KIA,CARENS,2022,Petrol,"25,303",Manual,12.67,"24,116",Hyderabad
+KIA,SELTOS,2020,Petrol,"31,213",Manual,11.93,"22,708",Hyderabad
+KIA,CARENS,2022,Petrol,"11,437",Manual,17.54,"33,386",Bangalore
+KIA,SELTOS,2022,Petrol,"13,022",Manual,12.52,"23,831",Bangalore
+KIA,SELTOS,2019,Petrol,"66,069",Automatic,12.92,"24,585",Bangalore
+KIA,SELTOS,2021,Petrol,"47,734",Manual,11,"20,937",Bangalore
+KIA,CARENS,2023,Petrol,"3,418",Manual,16.84,"32,053",Bangalore
+KIA,SELTOS,2019,Petrol,"76,470",Automatic,14.41,"27,422",Bangalore
+KIA,SONET,2023,Diesel,"10,137",Automatic,15.62,"29,731",Bangalore
+KIA,SONET,2023,Petrol,"9,869",Automatic,12.1,"23,031",Bangalore
+KIA,SONET,2022,Petrol,"9,477",Manual,12.99,"24,725",Bangalore
+KIA,CARENS,2022,Petrol,"10,776",Manual,18.42,"35,061",Bangalore
+KIA,SONET,2020,Diesel,"52,351",Automatic,12.35,"23,507",Bangalore
+KIA,SELTOS,2021,Petrol,"8,322",Automatic,15.36,"29,236",Bangalore
+KIA,SONET,2021,Petrol,"16,550",Manual,11.79,"22,438",Bangalore
+KIA,SONET,2022,Petrol,"11,338",Manual,12.89,"24,535",Bangalore
+KIA,SONET,2022,Petrol,"19,749",Automatic,14.08,"26,800",Bangalore
+KIA,SELTOS,2019,Petrol,"31,048",Manual,12.9,"24,554",Bangalore
+KIA,SONET,2022,Petrol,"7,287",Manual,11.51,"21,908",Bangalore
+KIA,CARENS,2022,Petrol,"5,828",Automatic,17.45,"33,221",Bangalore
+KIA,SONET,2022,Diesel,"36,006",Manual,11.65,"22,175",Bangalore
+KIA,SELTOS,2019,Petrol,"55,630",Automatic,12.82,"24,402",Bangalore
+KIA,SONET,2022,Petrol,"36,075",Manual,9.41,"17,911",Mumbai
+KIA,SONET,2021,Petrol,"27,455",Manual,10.7,"20,366",Mumbai
+KIA,SELTOS,2020,Petrol,"15,926",Manual,11.75,"22,365",Mumbai
+KIA,SELTOS,2021,Petrol,"15,309",Manual,11.22,"21,356",Mumbai
+KIA,SELTOS,2022,Petrol,"15,485",Manual,12.22,"23,260",Mumbai
+KIA,CARENS,2022,Petrol,"9,293",Manual,14.73,"28,037",Delhi
+KIA,SONET,2021,Petrol,"26,649",Manual,8.73,"16,617",Delhi
+KIA,CARNIVAL,2020,Diesel,"66,619",Automatic,19.16,"36,475",Delhi
+KIA,SONET,2020,Diesel,"64,930",Manual,8.63,"16,426",Delhi
+KIA,SONET,2020,Diesel,"35,537",Manual,9.4,"17,892",Delhi
+KIA,SELTOS,2021,Diesel,"25,475",Manual,10.84,"20,633",Delhi
+KIA,SELTOS,2020,Diesel,"64,661",Manual,10.99,"20,914",Delhi
+KIA,SELTOS,2020,Diesel,"89,649",Automatic,11.9,"22,651",Delhi
+KIA,SELTOS,2020,Diesel,"65,496",Automatic,13.96,"26,572",Delhi
+KIA,CARENS,2022,Diesel,"23,444",Automatic,17.34,"32,998",Delhi
+KIA,SELTOS,2019,Diesel,"44,689",Automatic,14.22,"30,918",Delhi
+KIA,SELTOS,2019,Petrol,"24,009",Automatic,15.46,"29,427",Delhi
+KIA,SELTOS,2019,Petrol,"11,594",Manual,12.36,"23,526",Delhi
+KIA,SELTOS,2021,Diesel,"45,515",Manual,13.4,"25,512",Delhi
+KIA,CARENS,2022,Petrol,"12,984",Manual,16.02,"30,493",Delhi
+KIA,SONET,2022,Petrol,"36,545",Manual,11.44,"21,775",Delhi
+KIA,SONET,2021,Petrol,"21,668",Manual,8.38,"15,951",Delhi
+KIA,SONET,2021,Diesel,"85,360",Automatic,8.5,"16,179",Delhi
+KIA,SELTOS,2019,Petrol,"85,987",Manual,9.24,"17,587",Ahmedabad
+KIA,SONET,2021,Petrol,"53,366",Automatic,9.7,"18,463",Ahmedabad
+KIA,SELTOS,2021,Diesel,"38,073",Automatic,13.5,"25,696",Ahmedabad
+KIA,SELTOS,2022,Petrol,"17,197",Manual,12.9,"24,554",Ahmedabad
+KIA,SELTOS,2021,Petrol,"27,041",Automatic,13.53,"25,753",Ahmedabad
+KIA,SELTOS,2023,Petrol,"10,629",Manual,13.23,"25,182",Ahmedabad
+KIA,SELTOS,2021,Diesel,"37,735",Automatic,16.24,"30,911",Ahmedabad
+KIA,SELTOS,2021,Petrol,"28,681",Automatic,16.15,"30,740",Ahmedabad
+KIA,SONET,2022,Petrol,"11,716",Manual,11.73,"22,327",Ahmedabad
+KIA,SELTOS,2020,Diesel,"65,496",Automatic,13.96,"26,572",Gurgaon
+KIA,SONET,2021,Petrol,"26,649",Manual,8.73,"16,617",Gurgaon
+KIA,CARENS,2022,Petrol,"9,293",Manual,14.73,"28,037",Gurgaon
+KIA,SONET,2020,Diesel,"35,537",Manual,9.4,"17,892",Gurgaon
+KIA,CARENS,2022,Diesel,"23,444",Automatic,17.34,"32,998",Gurgaon
+KIA,SONET,2020,Diesel,"64,930",Manual,8.63,"16,426",Gurgaon
+KIA,SELTOS,2020,Diesel,"89,649",Automatic,11.9,"22,651",Gurgaon
+KIA,SELTOS,2020,Diesel,"64,661",Manual,10.99,"20,914",Gurgaon
+KIA,SELTOS,2019,Diesel,"44,689",Automatic,14.22,"30,918",Gurgaon
+KIA,CARNIVAL,2020,Diesel,"66,619",Automatic,19.16,"36,475",Gurgaon
+KIA,SELTOS,2021,Diesel,"25,475",Manual,10.84,"20,633",Gurgaon
+KIA,SELTOS,2019,Petrol,"24,009",Automatic,15.46,"29,427",Gurgaon
+KIA,SELTOS,2021,Diesel,"45,515",Manual,13.4,"25,512",Gurgaon
+KIA,SELTOS,2019,Petrol,"11,594",Manual,12.36,"23,526",Gurgaon
+KIA,CARENS,2022,Petrol,"12,984",Manual,16.02,"30,493",Gurgaon
+KIA,SONET,2022,Petrol,"36,545",Manual,11.44,"21,775",Gurgaon
+KIA,SONET,2021,Petrol,"21,668",Manual,8.38,"15,951",Gurgaon
+KIA,SONET,2021,Diesel,"85,360",Automatic,8.5,"16,179",Gurgaon
+KIA,SELTOS,2020,Petrol,"16,637",Manual,15.15,"28,837",Chennai
+KIA,SELTOS,2020,Petrol,"38,515",Manual,10.28,"19,567",Chennai
+KIA,SELTOS,2019,Petrol,"64,015",Manual,9.7,"18,463",Chennai
+KIA,CARENS,2022,Petrol,"11,908",Manual,16.73,"31,844",Chennai
+KIA,SELTOS,2019,Petrol,"47,880",Automatic,13.16,"25,049",Chennai
+KIA,SELTOS,2020,Petrol,"58,166",Automatic,11.56,"22,003",Chennai
+KIA,SELTOS,2019,Petrol,"27,874",Automatic,13.43,"25,563",Chennai
+KIA,SONET,2021,Petrol,"37,966",Automatic,10.14,"19,301",Chennai
+KIA,SELTOS,2023,Diesel,"5,455",Manual,15.91,"30,283",Chennai
+KIA,SELTOS,2019,Petrol,"60,354",Manual,10.04,"19,110",Chennai
+KIA,SELTOS,2019,Petrol,"52,318",Automatic,14.12,"26,878",Pune
+KIA,SELTOS,2021,Petrol,"18,764",Manual,14.71,"27,999",Pune
+KIA,SELTOS,2019,Diesel,"48,072",Automatic,14.46,"27,523",Pune
+KIA,CARNIVAL,2020,Diesel,"66,619",Automatic,19.16,"36,475",Noida
+KIA,SELTOS,2020,Diesel,"64,661",Manual,10.99,"20,914",Noida
+KIA,CARENS,2022,Petrol,"9,293",Manual,14.73,"28,037",Noida
+KIA,SELTOS,2020,Diesel,"89,649",Automatic,11.9,"22,651",Noida
+KIA,SONET,2020,Diesel,"64,930",Manual,8.63,"16,426",Noida
+KIA,SONET,2021,Petrol,"26,649",Manual,8.73,"16,617",Noida
+KIA,SELTOS,2020,Diesel,"65,496",Automatic,13.96,"26,572",Noida
+KIA,SONET,2020,Diesel,"35,537",Manual,9.4,"17,892",Noida
+KIA,CARENS,2022,Diesel,"23,444",Automatic,17.34,"32,998",Noida
+KIA,SELTOS,2019,Diesel,"44,689",Automatic,14.22,"30,918",Noida
+KIA,SELTOS,2021,Diesel,"25,475",Manual,10.84,"20,633",Noida
+KIA,SELTOS,2019,Petrol,"24,009",Automatic,15.46,"29,427",Noida
+KIA,SELTOS,2019,Petrol,"11,594",Manual,12.36,"23,526",Noida
+KIA,CARENS,2022,Petrol,"12,984",Manual,16.02,"30,493",Noida
+KIA,SELTOS,2021,Diesel,"45,515",Manual,13.4,"25,512",Noida
+KIA,SONET,2022,Petrol,"36,545",Manual,11.44,"21,775",Noida
+KIA,SONET,2021,Petrol,"21,668",Manual,8.38,"15,951",Noida
+KIA,SONET,2021,Diesel,"85,360",Automatic,8.5,"16,179",Noida
+KIA,SELTOS,2020,Petrol,"64,844",Automatic,11.77,"22,403",Kolkatta
+KIA,SELTOS,2022,Petrol,"11,656",Manual,10.44,"19,872",Kolkatta
+KIA,SONET,2022,Diesel,"32,784",Manual,9.91,"18,863",Kolkatta
+KIA,SONET,2021,Diesel,"27,693",Manual,9.25,"17,607",Kolkatta
+KIA,SONET,2020,Petrol,"29,736",Manual,8.25,"15,703",Kolkatta
+KIA,SELTOS,2020,Petrol,"18,556",Manual,10.2,"19,405",Kolkatta
+KIA,SELTOS,2021,Petrol,"20,109",Manual,11.26,"21,432",Kolkatta
+KIA,SONET,2021,Petrol,"48,468",Manual,9.88,"18,806",Kolkatta
+KIA,SELTOS,2019,Diesel,"56,496",Manual,10.07,"19,167",Kolkatta
+Mahindra,Thar,2022,Petrol,"8,741",Automatic,15.39,"29,293",Hyderabad
+Mahindra,XUV500,2017,Diesel,"71,597",Manual,12.18,"23,184",Hyderabad
+Mahindra,Scorpio,2018,Diesel,"94,809",Manual,8.82,"16,788",Hyderabad
+Mahindra,XUV500,2019,Diesel,"86,802",Automatic,14.12,"26,876",Hyderabad
+Mahindra,Scorpio,2018,Diesel,"85,378",Manual,9.24,"17,587",Hyderabad
+Mahindra,XUV500,2018,Diesel,"56,830",Manual,12.44,"23,678",Hyderabad
+Mahindra,KUV,2019,Petrol,"44,303",Manual,6.3,"12,317",Hyderabad
+Mahindra,XUV300,2020,Petrol,"29,796",Manual,7.6,"14,858",Hyderabad
+Mahindra,Thar,2023,Petrol,"4,232",Automatic,15.45,"29,408",Hyderabad
+Mahindra,TUV300,2017,Diesel,"32,940",Manual,8.39,"15,970",Bangalore
+Mahindra,Thar,2022,Diesel,"39,917",Manual,14.91,"28,380",Bangalore
+Mahindra,XUV500,2016,Diesel,"69,806",Manual,8.8,"16,750",Bangalore
+Mahindra,XUV500,2015,Diesel,"65,585",Manual,8.11,"17,633",Bangalore
+Mahindra,XUV500,2013,Diesel,"87,683",Manual,7.35,"24,413",Bangalore
+Mahindra,XUV500,2019,Diesel,"1,23",Automatic,14.28,"31,048",Bangalore
+Mahindra,Scorpio,2015,Diesel,"36,537",Manual,8.04,"17,481",Bangalore
+Mahindra,XUV500,2018,Diesel,"67,899",Automatic,12.53,"23,850",Bangalore
+Mahindra,Bolero,2016,Diesel,"1,39",Manual,5.87,"13,057",Bangalore
+Mahindra,XUV500,2018,Diesel,"52,554",Automatic,15,"28,551",Bangalore
+Mahindra,XUV500,2018,Diesel,"1,27",Automatic,13.56,"29,483",Bangalore
+Mahindra,XUV500,2018,Diesel,"60,862",Manual,12.47,"23,743",Bangalore
+Mahindra,XUV500,2018,Diesel,"1,03",Manual,10.79,"23,460",Bangalore
+Mahindra,Scorpio,2022,Diesel,"35,182",Manual,14.85,"28,266",Bangalore
+Mahindra,XUV500,2016,Diesel,"42,916",Manual,11.31,"21,528",Bangalore
+Mahindra,XUV300,2022,Petrol,"10,442",Automatic,11.96,"22,765",Bangalore
+Mahindra,XUV300,2021,Petrol,"9,715",Manual,11.67,"22,213",Bangalore
+Mahindra,Thar,2018,Diesel,"64,643",Manual,8.22,"15,646",Bangalore
+Mahindra,Kuv100,2017,Petrol,"33,573",Manual,4.18,"8,172",Bangalore
+Mahindra,Kuv100,2017,Petrol,"60,467",Manual,4.25,"8,309",Bangalore
+Mahindra,MARAZZO,2020,Diesel,"65,701",Manual,10.93,"20,804",Mumbai
+Mahindra,XUV300,2021,Diesel,"38,402",Automatic,9.59,"18,254",Mumbai
+Mahindra,XUV500,2017,Diesel,"84,731",Automatic,10.48,"19,948",Mumbai
+Mahindra,XUV300,2019,Diesel,"51,525",Manual,9.11,"17,340",Mumbai
+Mahindra,XUV300,2021,Petrol,"17,985",Automatic,9.35,"17,797",Mumbai
+Mahindra,XUV300,2022,Diesel,"11,105",Automatic,11.53,"21,946",Mumbai
+Mahindra,XUV300,2022,Petrol,"20,405",Automatic,12.01,"22,860",Mumbai
+Mahindra,XUV500,2017,Diesel,"57,965",Manual,6.25,"12,219",Mumbai
+Mahindra,Kuv100,2019,CNG,"99,768",,4.14,"8,094",Mumbai
+Mahindra,XUV500,2016,Diesel,"60,456",Automatic,9.36,"17,816",Mumbai
+Mahindra,KUV,2019,Petrol,"20,023",Manual,4.62,"9,032",Delhi
+Mahindra,XUV300,2020,Petrol,"6,223",Manual,9.2,"17,511",Delhi
+Mahindra,Thar,2022,Petrol,"15,519",Automatic,14.41,"27,428",Delhi
+Mahindra,XUV300,2019,Petrol,"12,219",Manual,9.7,"18,463",Delhi
+Mahindra,XUV500,2019,Diesel,"68,673",Manual,10.1,"21,960",Delhi
+Mahindra,Scorpio,2015,Diesel,"70,430",Manual,6.81,"60,506",Delhi
+Mahindra,Scorpio,2017,Diesel,"84,213",Manual,8.5,"27,828",Delhi
+Mahindra,TUV300,2019,Diesel,"84,025",Manual,6.92,"15,393",Delhi
+Mahindra,XUV300,2019,Petrol,"17,531",Manual,8.16,"15,532",Delhi
+Mahindra,Scorpio,2019,Diesel,"58,255",Manual,10.78,"23,438",Delhi
+Mahindra,XUV300,2019,Diesel,"86,105",Manual,6.85,"15,237",Delhi
+Mahindra,XUV300,2019,Petrol,"58,737",Manual,7.68,"15,015",Delhi
+Mahindra,Scorpio,2015,Diesel,"62,617",Manual,7.16,"63,616",Delhi
+Mahindra,XUV300,2019,Diesel,"70,864",Manual,6.93,"15,411",Delhi
+Mahindra,XUV300,2021,Diesel,"18,148",Manual,10.01,"19,053",Delhi
+Mahindra,XUV300,2019,Diesel,"42,027",Manual,7.11,"15,816",Delhi
+Mahindra,XUV500,2018,Diesel,"1,12",Manual,7.84,"20,646",Delhi
+Mahindra,XUV300,2019,Petrol,"52,895",Manual,8.34,"15,874",Delhi
+Mahindra,XUV700,2022,Diesel,"26,860",Manual,16.04,"30,531",Delhi
+Mahindra,Thar,2021,Petrol,"25,783",Automatic,14.03,"26,705",Delhi
+Mahindra,KUV,2019,Petrol,"21,003",Manual,3.86,"7,546",Ahmedabad
+Mahindra,Kuv100,2017,Petrol,"56,780",Manual,3.59,"7,019",Ahmedabad
+Mahindra,KUV,2019,Petrol,"79,986",Manual,4.1,"8,016",Ahmedabad
+Mahindra,XUV300,2022,Petrol,"12,801",Automatic,12.53,"23,850",Ahmedabad
+Mahindra,XUV300,2022,Diesel,"20,246",Manual,10.09,"19,205",Ahmedabad
+Mahindra,XUV300,2022,Petrol,"24,712",Automatic,10.49,"19,967",Ahmedabad
+Mahindra,XUV300,2022,Petrol,"16,155",Manual,11.03,"20,995",Ahmedabad
+Mahindra,Thar,2021,Petrol,"52,201",Automatic,13.42,"25,544",Ahmedabad
+Mahindra,Thar,2021,Petrol,"18,189",Automatic,13.29,"25,296",Ahmedabad
+Mahindra,Thar,2022,Petrol,"15,519",Automatic,14.41,"27,428",Gurgaon
+Mahindra,XUV500,2019,Diesel,"68,673",Manual,10.1,"21,960",Gurgaon
+Mahindra,XUV300,2020,Petrol,"6,223",Manual,9.2,"17,511",Gurgaon
+Mahindra,Thar,2021,Petrol,"25,783",Automatic,14.03,"26,705",Gurgaon
+Mahindra,XUV300,2019,Petrol,"58,737",Manual,7.68,"15,015",Gurgaon
+Mahindra,XUV500,2019,Diesel,"15,070",Automatic,11.16,"24,271",Gurgaon
+Mahindra,XUV300,2019,Petrol,"12,219",Manual,9.7,"18,463",Gurgaon
+Mahindra,Scorpio,2015,Diesel,"70,430",Manual,6.81,"60,506",Gurgaon
+Mahindra,Scorpio,2015,Diesel,"62,617",Manual,7.16,"63,616",Gurgaon
+Mahindra,XUV500,2018,Diesel,"1,12",Manual,7.84,"20,646",Gurgaon
+Mahindra,XUV300,2019,Diesel,"42,027",Manual,7.11,"15,816",Gurgaon
+Mahindra,XUV300,2019,Diesel,"86,105",Manual,6.85,"15,237",Gurgaon
+Mahindra,KUV,2019,Petrol,"20,023",Manual,4.62,"9,032",Gurgaon
+Mahindra,XUV300,2019,Petrol,"20,234",Manual,7.22,"14,115",Gurgaon
+Mahindra,XUV300,2019,Diesel,"70,864",Manual,6.93,"15,411",Gurgaon
+Mahindra,XUV300,2021,Diesel,"18,148",Manual,10.01,"19,053",Gurgaon
+Mahindra,XUV300,2019,Petrol,"17,531",Manual,8.16,"15,532",Gurgaon
+Mahindra,Scorpio,2017,Diesel,"84,213",Manual,8.5,"27,828",Gurgaon
+Mahindra,Scorpio,2019,Diesel,"58,255",Manual,10.78,"23,438",Gurgaon
+Mahindra,XUV300,2019,Petrol,"47,968",Manual,8.51,"16,198",Gurgaon
+Mahindra,XUV500,2015,Diesel,"1,00",Manual,10.53,"22,895",Chennai
+Mahindra,Kuv100,2016,Petrol,"54,428",Manual,4.69,"9,169",Chennai
+Mahindra,XUV300,2019,Petrol,"9,646",Manual,10.24,"19,491",Chennai
+Mahindra,XUV300,2019,Diesel,"68,467",Manual,9.31,"17,721",Chennai
+Mahindra,SCORPIO,2022,Diesel,"23,936",Manual,22.7,"43,207",Chennai
+Mahindra,XUV300,2019,Diesel,"54,846",Automatic,9.31,"17,721",Chennai
+Mahindra,XUV500,2021,Diesel,"48,772",Manual,13.66,"26,001",Chennai
+Mahindra,Bolero,2021,Diesel,"80,208",Manual,9.7,"18,463",Chennai
+Mahindra,XUV500,2020,Diesel,"81,415",Automatic,14.94,"28,437",Chennai
+Mahindra,Kuv100,2016,Petrol,"79,734",Manual,4.53,"8,856",Chennai
+Mahindra,XUV300,2019,Diesel,"72,213",Manual,9.42,"17,930",Chennai
+Mahindra,Thar,2021,Petrol,"32,506",Automatic,13.73,"26,134",Chennai
+Mahindra,XUV300,2022,Petrol,"20,293",Automatic,12.45,"23,697",Chennai
+Mahindra,XUV500,2018,Diesel,"66,262",Manual,13.62,"25,924",Chennai
+Mahindra,Scorpio,2020,Diesel,"71,987",Manual,13.6,"25,886",Pune
+Mahindra,XUV300,2020,Petrol,"44,281",Manual,9.98,"18,987",Pune
+Mahindra,XUV300,2021,Petrol,"27,247",Automatic,11,"20,937",Pune
+Mahindra,XUV300,2022,Petrol,"19,363",Manual,11.77,"22,403",Pune
+Mahindra,XUV500,2018,Diesel,"52,732",Automatic,14.19,"27,009",Pune
+Mahindra,XUV300,2021,Diesel,"28,760",Automatic,10.21,"19,434",Pune
+Mahindra,XUV300,2019,Diesel,"22,533",Manual,10.39,"19,776",Pune
+Mahindra,Thar,2021,Petrol,"24,642",Automatic,13.25,"25,220",Pune
+Mahindra,XUV500,2013,Diesel,"97,814",Manual,5.77,"19,151",Pune
+Mahindra,XUV700,2021,Petrol,"38,824",Automatic,21.32,"40,581",Pune
+Mahindra,Thar,2022,Petrol,"15,519",Automatic,14.41,"27,428",Noida
+Mahindra,XUV500,2019,Diesel,"68,673",Manual,10.1,"21,960",Noida
+Mahindra,XUV300,2019,Diesel,"70,864",Manual,6.93,"15,411",Noida
+Mahindra,Scorpio,2019,Diesel,"58,255",Manual,10.78,"23,438",Noida
+Mahindra,TUV300,2019,Diesel,"84,025",Manual,6.92,"15,393",Noida
+Mahindra,Scorpio,2015,Diesel,"70,430",Manual,6.81,"60,506",Noida
+Mahindra,Scorpio,2017,Diesel,"84,213",Manual,8.5,"27,828",Noida
+Mahindra,XUV300,2019,Diesel,"62,238",Manual,7.65,"17,017",Noida
+Mahindra,XUV500,2019,Diesel,"54,955",Manual,9.67,"21,025",Noida
+Mahindra,XUV300,2020,Petrol,"6,223",Manual,9.2,"17,511",Noida
+Mahindra,XUV300,2019,Petrol,"12,219",Manual,9.7,"18,463",Noida
+Mahindra,XUV500,2019,Diesel,"36,838",Automatic,11.35,"24,678",Noida
+Mahindra,XUV300,2019,Diesel,"42,027",Manual,7.11,"15,816",Noida
+Mahindra,XUV300,2021,Diesel,"18,148",Manual,10.01,"19,053",Noida
+Mahindra,Scorpio,2015,Diesel,"81,720",Manual,9.25,"81,753",Noida
+Mahindra,XUV300,2020,Diesel,"54,750",Automatic,9.27,"17,645",Noida
+Mahindra,XUV300,2019,Diesel,"86,105",Manual,6.85,"15,237",Noida
+Mahindra,XUV300,2019,Petrol,"17,531",Manual,8.16,"15,532",Noida
+Mahindra,Thar,2021,Petrol,"25,783",Automatic,14.03,"26,705",Noida
+Mahindra,KUV,2019,Petrol,"20,023",Manual,4.62,"9,032",Noida
+Mahindra,XUV300,2020,Diesel,"73,848",Manual,7.39,"14,448",Kolkatta
+Mahindra,XUV500,2019,Diesel,"59,793",Manual,9.93,"18,901",Kolkatta
+Mahindra,Bolero,2022,Diesel,"14,536",Manual,9.33,"17,759",Kolkatta
+Mahindra,XUV300,2020,Petrol,"72,549",Manual,6.99,"13,666",Kolkatta
+Mahindra,XUV300,2021,Petrol,"38,036",Manual,9.7,"18,463",Kolkatta
+Mahindra,XUV300,2021,Diesel,"43,670",Automatic,9.79,"18,634",Kolkatta
+Mahindra,XUV300,2022,Petrol,"15,039",Manual,9.78,"18,615",Kolkatta
+Mahindra,XUV300,2021,Petrol,"23,880",Automatic,9.67,"18,406",Kolkatta
+Mahindra,XUV300,2020,Petrol,"50,172",Manual,8.7,"16,560",Kolkatta
+Mahindra,XUV300,2020,Diesel,"52,777",Manual,8.82,"16,786",Kolkatta
+Mahindra,TUV300,2020,Diesel,"48,361",Manual,6.53,"12,766",Kolkatta
+Mahindra,KUV,2019,Petrol,"4,729",Manual,5.86,"11,456",Kolkatta
+Toyota,YARIS,2018,Petrol,"92,585",Automatic,6.86,"13,411",Hyderabad
+Toyota,Etios,2011,Petrol,"77,786",Manual,2.99,"14,075",Hyderabad
+Toyota,Innova,2018,Diesel,"93,765",Manual,20.66,"39,324",Hyderabad
+Toyota,Glanza,2019,Petrol,"43,917",Manual,6.5,"12,708",Hyderabad
+Toyota,Innova,2017,Diesel,"90,942",Automatic,19.4,"36,926",Hyderabad
+Toyota,Innova,2017,Diesel,"53,056",Automatic,19.25,"36,641",Hyderabad
+Toyota,Etios,2013,Petrol,"82,484",Manual,4.04,"10,639",Hyderabad
+Toyota,URBAN,2022,Petrol,"25,295",Manual,9.4,"17,892",Hyderabad
+Toyota,URBAN,2021,Petrol,"25,467",Automatic,10.32,"19,643",Bangalore
+Toyota,Fortuner,2014,Diesel,"1,08",Automatic,18.49,"47,788",Bangalore
+Toyota,Innova,2018,Diesel,"72,202",Automatic,17.01,"32,377",Bangalore
+Toyota,Innova,2018,Diesel,"66,801",Manual,21.13,"40,219",Bangalore
+Toyota,Innova,2017,Diesel,"40,409",Manual,18.42,"35,061",Bangalore
+Toyota,Etios,2011,Petrol,"1,04",Manual,3.52,"16,570",Bangalore
+Toyota,Glanza,2021,Petrol,"19,577",Manual,8.17,"15,551",Bangalore
+Toyota,Glanza,2019,Petrol,"15,467",Manual,8.08,"15,380",Bangalore
+Toyota,Innova,2017,Diesel,"95,635",Automatic,17.6,"33,500",Bangalore
+Toyota,Glanza,2021,Petrol,"37,303",Manual,7.38,"14,428",Bangalore
+Toyota,Glanza,2023,Petrol,"5,827",Automatic,10.14,"19,301",Bangalore
+Toyota,Innova,2018,Diesel,"29,041",Manual,19.64,"37,383",Bangalore
+Toyota,Glanza,2021,Petrol,"24,908",Manual,7.96,"15,562",Bangalore
+Toyota,Glanza,2021,Petrol,"12,500",Automatic,8.92,"16,978",Bangalore
+Toyota,YARIS,2019,Petrol,"42,324",Manual,9.31,"17,721",Bangalore
+Toyota,Etios,2012,Petrol,"54,197",Manual,3.17,"10,529",Bangalore
+Toyota,Glanza,2023,Petrol,"14,552",Manual,8.64,"16,445",Bangalore
+Toyota,YARIS,2021,Petrol,"20,754",Manual,9.09,"17,302",Bangalore
+Toyota,URBAN,2020,Petrol,"1,11",Manual,8.12,"17,655",Bangalore
+Toyota,Glanza,2020,Petrol,"28,628",Manual,7.94,"15,523",Bangalore
+Toyota,YARIS,2018,Petrol,"30,443",Manual,7.83,"15,308",Mumbai
+Toyota,Innova,2015,Diesel,"1,20",Manual,9.67,"21,025",Mumbai
+Toyota,Corolla,2016,Petrol,"93,355",Automatic,7.24,"14,154",Mumbai
+Toyota,Etios,2011,Petrol,"79,607",Manual,2.44,"11,486",Mumbai
+Toyota,Corolla,2018,Petrol,"77,261",Automatic,10.56,"20,100",Mumbai
+Toyota,Etios,2011,Petrol,"77,595",Manual,2.6,"12,239",Mumbai
+Toyota,Corolla,2017,Petrol,"56,356",Automatic,10.8,"20,551",Mumbai
+Toyota,Glanza,2019,Petrol,"16,870",Automatic,7.21,"14,096",Mumbai
+Toyota,Etios,2011,Petrol,"39,136",Manual,2.97,"13,981",Mumbai
+Toyota,Corolla,2018,Petrol,"74,214",Automatic,10.22,"19,453",Mumbai
+Toyota,Corolla,2011,Petrol,"86,568",Manual,3.08,"14,499",Mumbai
+Toyota,Etios,2014,Petrol,"23,449",Manual,3.38,"7,519",Mumbai
+Toyota,Etios,2011,Petrol,"75,420",Manual,2.89,"13,595",Mumbai
+Toyota,Corolla,2017,Petrol,"61,520",Automatic,10.91,"20,766",Mumbai
+Toyota,URBAN,2022,Petrol,"31,043",Automatic,10.08,"19,190",Mumbai
+Toyota,YARIS,2021,Petrol,"17,243",Automatic,8.81,"16,769",Mumbai
+Toyota,Glanza,2019,Petrol,"21,695",Automatic,7.78,"15,210",Mumbai
+Toyota,Fortuner,2019,Diesel,"94,020",Manual,26.08,"56,704",Delhi
+Toyota,YARIS,2020,Petrol,"37,387",Manual,8.78,"16,712",Delhi
+Toyota,Corolla,2014,Petrol,"78,895",Manual,5.27,"11,723",Delhi
+Toyota,Corolla,2017,Petrol,"86,409",Automatic,10.57,"20,119",Delhi
+Toyota,URBAN,2021,Petrol,"29,116",Automatic,9.19,"17,492",Delhi
+Toyota,URBAN,2021,Petrol,"37,122",Manual,7.58,"14,819",Delhi
+Toyota,Corolla,2012,Petrol,"1,00",Manual,3.09,"10,263",Delhi
+Toyota,Glanza,2019,Petrol,"55,311",Automatic,6.88,"13,451",Delhi
+Toyota,Etios,2014,Petrol,"89,602",Manual,3.18,"7,074",Delhi
+Toyota,Corolla,2018,Diesel,"52,720",Manual,9.76,"25,236",Delhi
+Toyota,Etios,2015,Petrol,"79,927",Manual,3.77,"7,370",Delhi
+Toyota,Etios,2014,Petrol,"76,413",Manual,3.71,"8,244",Delhi
+Toyota,Innova,2015,Diesel,"82,593",Manual,10.59,"93,596",Delhi
+Toyota,Etios,2013,Petrol,"41,856",Manual,3.29,"8,664",Delhi
+Toyota,Etios,2015,Petrol,"94,688",Manual,3.65,"7,136",Delhi
+Toyota,Etios,2011,Petrol,"73,320",Manual,2.56,"12,051",Delhi
+Toyota,Etios,2011,Petrol,"88,354",Manual,2.08,"9,791",Delhi
+Toyota,Corolla,2011,Petrol,"80,901",Manual,2.92,"13,755",Delhi
+Toyota,Etios,2011,Petrol,"21,291",Manual,2.56,"12,051",Delhi
+Toyota,Etios,2014,Petrol,"31,381",Manual,2.91,"6,473",Delhi
+Toyota,Innova,2015,Diesel,"96,972",Manual,8.57,"18,633",Ahmedabad
+Toyota,Etios,2011,Petrol,"99,230",Manual,2.31,"10,874",Ahmedabad
+Toyota,URBAN,2022,Petrol,"15,313",Automatic,10.84,"20,633",Ahmedabad
+Toyota,Fortuner,2019,Diesel,"94,020",Manual,26.08,"56,704",Gurgaon
+Toyota,URBAN,2021,Petrol,"29,116",Automatic,9.19,"17,492",Gurgaon
+Toyota,Glanza,2019,Petrol,"55,311",Automatic,6.88,"13,451",Gurgaon
+Toyota,YARIS,2020,Petrol,"37,387",Manual,8.78,"16,712",Gurgaon
+Toyota,URBAN,2021,Petrol,"37,122",Manual,7.58,"14,819",Gurgaon
+Toyota,Corolla,2014,Petrol,"78,895",Manual,5.27,"11,723",Gurgaon
+Toyota,Innova,2015,Diesel,"82,593",Manual,10.59,"93,596",Gurgaon
+Toyota,Etios,2014,Petrol,"76,413",Manual,3.71,"8,244",Gurgaon
+Toyota,Corolla,2017,Petrol,"86,409",Automatic,10.57,"20,119",Gurgaon
+Toyota,Etios,2014,Petrol,"89,602",Manual,3.18,"7,074",Gurgaon
+Toyota,Corolla,2018,Diesel,"52,720",Manual,9.76,"25,236",Gurgaon
+Toyota,Etios,2015,Petrol,"79,927",Manual,3.77,"7,370",Gurgaon
+Toyota,Corolla,2012,Petrol,"1,00",Manual,3.09,"10,263",Gurgaon
+Toyota,Etios,2013,Petrol,"41,856",Manual,3.29,"8,664",Gurgaon
+Toyota,Etios,2015,Petrol,"94,688",Manual,3.65,"7,136",Gurgaon
+Toyota,Etios,2011,Petrol,"73,320",Manual,2.56,"12,051",Gurgaon
+Toyota,Etios,2011,Petrol,"88,354",Manual,2.08,"9,791",Gurgaon
+Toyota,Corolla,2011,Petrol,"80,901",Manual,2.92,"13,755",Gurgaon
+Toyota,Etios,2011,Petrol,"21,291",Manual,2.56,"12,051",Gurgaon
+Toyota,Etios,2014,Petrol,"31,381",Manual,2.91,"6,473",Gurgaon
+Toyota,Etios,2012,Petrol,"1,22",Manual,3.16,"10,496",Chennai
+Toyota,Glanza,2021,Petrol,"36,927",Automatic,8.4,"15,989",Chennai
+Toyota,Glanza,2020,Petrol,"32,063",Automatic,8.3,"15,798",Chennai
+Toyota,Etios,2013,Petrol,"72,546",Manual,3.71,"9,770",Chennai
+Toyota,Etios,2011,Petrol,"44,756",Manual,4.08,"19,206",Chennai
+Toyota,Glanza,2022,Petrol,"27,959",Manual,7.51,"14,682",Pune
+Toyota,URBAN,2022,Petrol,"18,692",Automatic,10.53,"20,043",Pune
+Toyota,Fortuner,2019,Diesel,"94,020",Manual,26.08,"56,704",Noida
+Toyota,YARIS,2020,Petrol,"37,387",Manual,8.78,"16,712",Noida
+Toyota,Corolla,2014,Petrol,"78,895",Manual,5.27,"11,723",Noida
+Toyota,Corolla,2012,Petrol,"1,00",Manual,3.09,"10,263",Noida
+Toyota,Etios,2011,Petrol,"88,354",Manual,2.08,"9,791",Noida
+Toyota,URBAN,2021,Petrol,"29,116",Automatic,9.19,"17,492",Noida
+Toyota,URBAN,2021,Petrol,"37,122",Manual,7.58,"14,819",Noida
+Toyota,Corolla,2017,Petrol,"86,409",Automatic,10.57,"20,119",Noida
+Toyota,Etios,2015,Petrol,"79,927",Manual,3.77,"7,370",Noida
+Toyota,Corolla,2018,Diesel,"52,720",Manual,9.76,"25,236",Noida
+Toyota,Etios,2014,Petrol,"76,413",Manual,3.71,"8,244",Noida
+Toyota,Etios,2014,Petrol,"89,602",Manual,3.18,"7,074",Noida
+Toyota,Innova,2015,Diesel,"82,593",Manual,10.59,"93,596",Noida
+Toyota,Glanza,2019,Petrol,"55,311",Automatic,6.88,"13,451",Noida
+Toyota,Etios,2013,Petrol,"41,856",Manual,3.29,"8,664",Noida
+Toyota,Etios,2015,Petrol,"94,688",Manual,3.65,"7,136",Noida
+Toyota,Etios,2011,Petrol,"73,320",Manual,2.56,"12,051",Noida
+Toyota,Corolla,2011,Petrol,"80,901",Manual,2.92,"13,755",Noida
+Toyota,Etios,2011,Petrol,"21,291",Manual,2.56,"12,051",Noida
+Toyota,Etios,2014,Petrol,"31,381",Manual,2.91,"6,473",Noida
+Toyota,Corolla,2012,Diesel,"1,00",Manual,2.98,"14,028",Kolkatta
+Toyota,YARIS,2018,Petrol,"24,092",Manual,5.89,"11,515",Kolkatta
+Toyota,Corolla,2017,Petrol,"23,355",Manual,7.1,"13,881",Kolkatta
+Toyota,YARIS,2018,Petrol,"13,594",Manual,6.3,"12,317",Kolkatta
+Toyota,URBAN,2021,Petrol,"6,509",Manual,8.69,"16,541",Kolkatta
+Volkswagen,Vento,2014,Diesel,"1,14",Manual,4.72,"12,430",Hyderabad
+Volkswagen,TAIGUN,2021,Petrol,"39,373",Automatic,12.26,"23,336",Hyderabad
+Volkswagen,Polo,2019,Petrol,"49,049",Manual,5.11,"9,990",Hyderabad
+Volkswagen,Polo,2020,Petrol,"54,323",Manual,5.73,"11,202",Hyderabad
+Volkswagen,Polo,2017,Petrol,"50,037",Manual,6.54,"12,786",Hyderabad
+Volkswagen,Polo,2019,Petrol,"94,831",Automatic,6.76,"13,216",Hyderabad
+Volkswagen,Ameo,2018,Diesel,"73,974",Manual,6.57,"12,844",Hyderabad
+Volkswagen,Vento,2021,Petrol,"17,364",Automatic,10.91,"20,766",Hyderabad
+Volkswagen,Vento,2021,Petrol,"50,711",Automatic,9.76,"18,577",Hyderabad
+Volkswagen,TAIGUN,2022,Petrol,"9,703",Automatic,13.69,"26,058",Hyderabad
+Volkswagen,Ameo,2019,Petrol,"54,390",Manual,6.16,"12,043",Bangalore
+Volkswagen,Polo,2014,Diesel,"97,802",Manual,5.6,"14,747",Bangalore
+Volkswagen,Polo,2011,Petrol,"1,14",Manual,3.32,"15,628",Bangalore
+Volkswagen,Vento,2017,Petrol,"38,945",Automatic,7.73,"15,112",Bangalore
+Volkswagen,Polo,2012,Diesel,"1,05",Manual,3.6,"16,946",Bangalore
+Volkswagen,Vento,2017,Petrol,"64,727",Automatic,7.28,"14,233",Bangalore
+Volkswagen,Ameo,2016,Petrol,"97,656",Manual,4.95,"9,677",Bangalore
+Volkswagen,Vento,2016,Petrol,"80,842",Automatic,7.04,"13,763",Bangalore
+Volkswagen,Polo,2014,Diesel,"1,00",Manual,5.47,"14,405",Bangalore
+Volkswagen,Vento,2020,Petrol,"68,303",Manual,10.02,"19,072",Bangalore
+Volkswagen,Polo,2018,Petrol,"78,764",Manual,5.61,"10,968",Bangalore
+Volkswagen,Vento,2016,Petrol,"72,451",Automatic,7.6,"14,858",Bangalore
+Volkswagen,Vento,2012,Diesel,"1,19",Manual,4.41,"20,759",Bangalore
+Volkswagen,Polo,2016,Petrol,"87,324",Automatic,6.98,"13,646",Bangalore
+Volkswagen,TAIGUN,2021,Petrol,"97,554",Manual,12.32,"23,450",Bangalore
+Volkswagen,Polo,2019,Petrol,"18,914",Manual,6.24,"12,199",Bangalore
+Volkswagen,Ameo,2016,Diesel,"61,334",Automatic,5.55,"10,850",Bangalore
+Volkswagen,Vento,2016,Diesel,"1,02",Automatic,5.97,"13,280",Bangalore
+Volkswagen,Polo,2015,Petrol,"1,05",Automatic,6.52,"14,503",Bangalore
+Volkswagen,VIRTUS,2023,Petrol,"13,967",Automatic,17.76,"33,805",Bangalore
+Volkswagen,Ameo,2019,Petrol,"34,651",Manual,5.72,"11,183",Mumbai
+Volkswagen,Ameo,2016,Petrol,"35,143",Manual,5.51,"10,772",Mumbai
+Volkswagen,Vento,2016,Petrol,"42,533",Automatic,6.15,"12,023",Mumbai
+Volkswagen,Vento,2017,Petrol,"44,708",Automatic,6.22,"12,160",Mumbai
+Volkswagen,Vento,2014,Petrol,"45,714",Manual,3.79,"8,431",Mumbai
+Volkswagen,Polo,2014,Petrol,"46,222",Manual,3.8,"8,448",Mumbai
+Volkswagen,Vento,2012,Petrol,"93,393",Manual,3.35,"11,127",Mumbai
+Volkswagen,Vento,2014,Petrol,"71,432",Manual,3.66,"8,141",Mumbai
+Volkswagen,Polo,2013,Petrol,"61,568",Manual,3.23,"8,506",Mumbai
+Volkswagen,Vento,2015,Petrol,"47,698",Automatic,4.56,"8,915",Mumbai
+Volkswagen,TAIGUN,2021,Petrol,"39,263",Automatic,11.99,"22,822",Mumbai
+Volkswagen,Vento,2012,Petrol,"62,138",Manual,3.32,"11,027",Mumbai
+Volkswagen,Ameo,2016,Petrol,"10,117",Manual,4.75,"9,286",Mumbai
+Volkswagen,Vento,2013,Diesel,"89,615",Manual,3.34,"11,094",Mumbai
+Volkswagen,Ameo,2017,Petrol,"47,924",Manual,4.8,"9,384",Mumbai
+Volkswagen,TAIGUN,2022,Petrol,"31,121",Automatic,15.84,"30,150",Mumbai
+Volkswagen,Polo,2020,Petrol,"45,029",Manual,6.3,"12,317",Mumbai
+Volkswagen,Ameo,2017,Diesel,"1,02",Automatic,4.95,"11,011",Mumbai
+Volkswagen,Vento,2016,Petrol,"83,662",Manual,4.97,"9,716",Mumbai
+Volkswagen,Ameo,2016,Petrol,"69,347",Manual,4.02,"7,859",Mumbai
+Volkswagen,Polo,2017,Petrol,"57,238",Manual,4.69,"9,165",Delhi
+Volkswagen,Polo,2017,Petrol,"65,247",Manual,4.82,"9,423",Delhi
+Volkswagen,TAIGUN,2022,Petrol,"14,449",Manual,14.03,"26,705",Delhi
+Volkswagen,Polo,2014,Petrol,"81,886",Manual,3.65,"8,119",Delhi
+Volkswagen,Polo,2011,Petrol,"76,491",Manual,2.18,"10,262",Delhi
+Volkswagen,Vento,2020,Petrol,"43,444",Manual,10.78,"20,523",Delhi
+Volkswagen,Ameo,2018,Petrol,"40,904",Manual,5.21,"10,186",Delhi
+Volkswagen,Polo,2020,Petrol,"97,197",Manual,6.16,"12,043",Delhi
+Volkswagen,Vento,2011,Petrol,"37,237",Manual,2.28,"10,733",Delhi
+Volkswagen,Vento,2019,Petrol,"16,897",Automatic,10.61,"20,195",Delhi
+Volkswagen,Polo,2011,Petrol,"63,435",Manual,2.32,"10,921",Delhi
+Volkswagen,Ameo,2019,Diesel,"67,811",Automatic,6.74,"14,993",Delhi
+Volkswagen,Ameo,2019,Diesel,"54,341",Manual,5.3,"11,795",Delhi
+Volkswagen,Ameo,2018,Petrol,"66,903",Manual,4.79,"9,368",Delhi
+Volkswagen,Vento,2017,Petrol,"95,879",Automatic,6.61,"12,923",Delhi
+Volkswagen,Polo,2011,Petrol,"91,193",Manual,2.06,"9,697",Delhi
+Volkswagen,Vento,2011,Petrol,"47,819",Manual,2.27,"10,686",Delhi
+Volkswagen,Polo,2013,Petrol,"40,976",Manual,3.15,"8,295",Delhi
+Volkswagen,Vento,2015,Petrol,"98,990",Manual,5.74,"11,222",Delhi
+Volkswagen,Vento,2010,Petrol,"74,715",Manual,2,"17,770",Delhi
+Volkswagen,Polo,2014,Petrol,"1,17",Manual,3.43,"7,630",Ahmedabad
+Volkswagen,Polo,2011,Petrol,"75,918",Manual,2.62,"12,333",Ahmedabad
+Volkswagen,Polo,2020,Petrol,"39,632",Automatic,8.01,"15,246",Ahmedabad
+Volkswagen,VIRTUS,2023,Petrol,"7,645",Manual,10.84,"20,625",Ahmedabad
+Volkswagen,Vento,2020,Petrol,"47,422",Automatic,8.33,"15,860",Ahmedabad
+Volkswagen,Vento,2022,Petrol,"23,868",Automatic,11.31,"21,528",Ahmedabad
+Volkswagen,Polo,2013,Petrol,"46,642",Manual,3.96,"10,423",Ahmedabad
+Volkswagen,Polo,2017,Petrol,"57,238",Manual,4.69,"9,165",Gurgaon
+Volkswagen,Polo,2017,Petrol,"65,247",Manual,4.82,"9,423",Gurgaon
+Volkswagen,Polo,2014,Petrol,"81,886",Manual,3.65,"8,119",Gurgaon
+Volkswagen,Polo,2011,Petrol,"76,491",Manual,2.18,"10,262",Gurgaon
+Volkswagen,Vento,2011,Petrol,"37,237",Manual,2.28,"10,733",Gurgaon
+Volkswagen,TAIGUN,2022,Petrol,"14,449",Manual,14.03,"26,705",Gurgaon
+Volkswagen,Ameo,2018,Petrol,"40,904",Manual,5.21,"10,186",Gurgaon
+Volkswagen,Vento,2019,Petrol,"16,897",Automatic,10.61,"20,195",Gurgaon
+Volkswagen,Polo,2020,Petrol,"97,197",Manual,6.16,"12,043",Gurgaon
+Volkswagen,Ameo,2018,Petrol,"66,903",Manual,4.79,"9,368",Gurgaon
+Volkswagen,Polo,2011,Petrol,"91,193",Manual,2.06,"9,697",Gurgaon
+Volkswagen,Polo,2011,Petrol,"63,435",Manual,2.32,"10,921",Gurgaon
+Volkswagen,Vento,2020,Petrol,"43,444",Manual,10.78,"20,523",Gurgaon
+Volkswagen,Ameo,2019,Diesel,"54,341",Manual,5.3,"11,795",Gurgaon
+Volkswagen,Ameo,2019,Diesel,"67,811",Automatic,6.74,"14,993",Gurgaon
+Volkswagen,Vento,2011,Petrol,"47,819",Manual,2.27,"10,686",Gurgaon
+Volkswagen,Vento,2017,Petrol,"95,879",Automatic,6.61,"12,923",Gurgaon
+Volkswagen,Vento,2010,Petrol,"74,715",Manual,2,"17,770",Gurgaon
+Volkswagen,Polo,2013,Petrol,"40,976",Manual,3.15,"8,295",Gurgaon
+Volkswagen,Vento,2015,Petrol,"98,990",Manual,5.74,"11,222",Gurgaon
+Volkswagen,Vento,2018,Diesel,"81,384",Automatic,9.01,"17,150",Chennai
+Volkswagen,Polo,2016,Petrol,"71,760",Manual,5.68,"11,105",Chennai
+Volkswagen,TAIGUN,2022,Petrol,"13,019",Manual,15.65,"29,788",Chennai
+Volkswagen,Polo,2015,Petrol,"64,998",Manual,5.18,"10,127",Chennai
+Volkswagen,Vento,2015,Diesel,"1,05",Automatic,5.68,"12,635",Chennai
+Volkswagen,Polo,2016,Petrol,"92,250",Manual,5.43,"10,622",Chennai
+Volkswagen,Vento,2016,Petrol,"1,24",Manual,5.59,"12,435",Chennai
+Volkswagen,Ameo,2018,Petrol,"35,772",Manual,6,"11,730",Chennai
+Volkswagen,Vento,2011,Petrol,"98,549",Manual,3.16,"14,875",Chennai
+Volkswagen,Vento,2017,Diesel,"95,112",Manual,6.71,"13,123",Chennai
+Volkswagen,Ameo,2016,Diesel,"1,07",Manual,5.18,"11,523",Chennai
+Volkswagen,Vento,2016,Diesel,"1,12",Automatic,6.11,"13,580",Chennai
+Volkswagen,Polo,2014,Petrol,"52,215",Manual,5.17,"11,500",Chennai
+Volkswagen,Polo,2019,Petrol,"54,611",Manual,6.63,"12,962",Chennai
+Volkswagen,Polo,2017,Petrol,"51,364",Manual,5.68,"11,105",Chennai
+Volkswagen,Polo,2015,Petrol,"66,830",Manual,5.26,"10,283",Chennai
+Volkswagen,Vento,2016,Petrol,"83,567",Manual,5.3,"10,362",Chennai
+Volkswagen,Polo,2015,Petrol,"58,651",Manual,4.76,"9,306",Chennai
+Volkswagen,Ameo,2019,Petrol,"64,222",Manual,5.75,"11,241",Chennai
+Volkswagen,Polo,2019,Petrol,"65,689",Manual,7.59,"14,839",Chennai
+Volkswagen,Ameo,2017,Petrol,"76,307",Manual,5.55,"10,850",Pune
+Volkswagen,Polo,2019,Petrol,"33,721",Manual,6.89,"13,468",Pune
+Volkswagen,Polo,2020,Petrol,"47,629",Manual,7.93,"15,503",Pune
+Volkswagen,Ameo,2017,Petrol,"65,371",Manual,5.28,"10,323",Pune
+Volkswagen,Vento,2017,Petrol,"32,039",Automatic,8.14,"15,494",Pune
+Volkswagen,Vento,2017,Petrol,"71,715",Automatic,6.2,"12,121",Pune
+Volkswagen,Polo,2019,Petrol,"42,872",Manual,7.08,"13,842",Pune
+Volkswagen,Ameo,2017,Diesel,"49,028",Automatic,7.38,"14,428",Pune
+Volkswagen,Vento,2018,Petrol,"67,875",Automatic,7.73,"15,112",Pune
+Volkswagen,Ameo,2017,Diesel,"58,693",Automatic,7.1,"13,881",Pune
+Volkswagen,Polo,2017,Petrol,"61,546",Manual,5.67,"11,085",Pune
+Volkswagen,Vento,2019,Diesel,"70,213",Manual,8.25,"15,703",Pune
+Volkswagen,Polo,2016,Diesel,"82,654",Manual,4.62,"9,032",Pune
+Volkswagen,Polo,2017,Petrol,"57,238",Manual,4.69,"9,165",Noida
+Volkswagen,Polo,2020,Petrol,"97,197",Manual,6.16,"12,043",Noida
+Volkswagen,Ameo,2019,Diesel,"54,341",Manual,5.3,"11,795",Noida
+Volkswagen,Polo,2014,Petrol,"81,886",Manual,3.65,"8,119",Noida
+Volkswagen,Vento,2015,Petrol,"98,990",Manual,5.74,"11,222",Noida
+Volkswagen,Vento,2011,Petrol,"47,819",Manual,2.27,"10,686",Noida
+Volkswagen,Polo,2017,Petrol,"65,247",Manual,4.82,"9,423",Noida
+Volkswagen,Vento,2017,Petrol,"95,879",Automatic,6.61,"12,923",Noida
+Volkswagen,Polo,2013,Petrol,"40,976",Manual,3.15,"8,295",Noida
+Volkswagen,Vento,2011,Petrol,"37,237",Manual,2.28,"10,733",Noida
+Volkswagen,Polo,2011,Petrol,"76,491",Manual,2.18,"10,262",Noida
+Volkswagen,Polo,2011,Petrol,"63,435",Manual,2.32,"10,921",Noida
+Volkswagen,Ameo,2018,Petrol,"40,904",Manual,5.21,"10,186",Noida
+Volkswagen,Ameo,2019,Diesel,"67,811",Automatic,6.74,"14,993",Noida
+Volkswagen,TAIGUN,2022,Petrol,"14,449",Manual,14.03,"26,705",Noida
+Volkswagen,Vento,2019,Petrol,"16,897",Automatic,10.61,"20,195",Noida
+Volkswagen,Ameo,2018,Petrol,"66,903",Manual,4.79,"9,368",Noida
+Volkswagen,Polo,2011,Petrol,"91,193",Manual,2.06,"9,697",Noida
+Volkswagen,Vento,2020,Petrol,"43,444",Manual,10.78,"20,523",Noida
+Volkswagen,Vento,2010,Petrol,"74,715",Manual,2,"17,770",Noida
+Volkswagen,Ameo,2017,Petrol,"89,489",Manual,3.52,"6,882",Kolkatta
+Volkswagen,Vento,2015,Petrol,"58,015",Automatic,4.08,"7,976",Kolkatta
+Volkswagen,Ameo,2017,Diesel,"46,293",Automatic,4.41,"8,622",Kolkatta
+Volkswagen,Ameo,2019,Petrol,"59,396",Manual,4.24,"8,289",Kolkatta
